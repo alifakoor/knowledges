@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d5c8f292d532bc",
+        "id": "94ad2bab8b72caf8",
         "type": "tabs",
         "children": [
           {
-            "id": "96458820de609a5c",
+            "id": "1c623c317f7c1e58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten Method/Youtube.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 636.5
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten Method/Youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten Method/Youtube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten Method/Youtube.md"
+              }
             }
           },
           {
@@ -157,8 +165,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04a5c27aec0daedb",
+  "active": "1c623c317f7c1e58",
   "lastOpenFiles": [
+    "Zettelkasten Method/what is it Zettelkasten method.md",
+    "Zettelkasten Method/how can I use it for personal knowledge.md",
+    "Zettelkasten Method/how can I use it for personal knowledge?.md",
+    "Zettelkasten Method/when I created the notes, how can I use them after a while?.md",
+    "Zettelkasten Method/when I created the notes, how can I use them after a while.md",
+    "Zettelkasten Method/what is it Zettelkasten method?.md",
+    "Zettelkasten Method/why is it famous.md",
+    "Zettelkasten Method/why is it famous?.md",
+    "Linux/Change permission of all folder in directory.md",
+    "Linux/Check folder and subfolder size.md",
+    "Linux/Command for see usage of directories and files.md",
+    "Linux/Install .deb files on ubuntu.md",
+    "Linux/Print last 10 lines of file.md",
+    "Linux/Search in file's content.md",
+    "Linux/Linux's Commands.md",
     "Untitled.canvas",
     "2023-10-02.md",
     "hablol matin/get login code in habl and bab.md",
@@ -171,23 +194,9 @@
     "badesaba/badesaba.ir.md",
     "Database Selection/Software architecture factors for choosing a database.md",
     "Database Selection/OLTP vs OLAP.md",
-    "Database Selection/Comparing databases based on software architecture factors.md",
     "Database/PostgreSQL",
     "Database",
-    "Software Architecture/Styles vs Patterns.md",
     "Software Architecture",
-    "Learning English/Speaking Topic - Third Conditional - 1.md",
-    "Learning English/Speaking Topic - Wednesday Talk - 2023-06-21.md",
-    "Learning English/Speaking Topic - Saturdays Talk - 2023-06-17.md",
-    "Learning English/Speaking Topic - Saturdays Talk - 2023-06-10.md",
-    "Learning/Typescript/keyof.md",
-    "Zettelkasten Method/Youtube.md",
-    "Learning/Typescript/Generics.md",
-    "Learning English/speaking topic.md",
-    "Learning English/Example passive.md",
-    "Learning/Typescript/Utility Types.md",
-    "Learning/Typescript/method overriding.md",
-    "Learning/Typescript/Static members in classes.md",
     "Learning/Typescript/files/typescript_access_modifiers.png",
     "hablol matin",
     "Database Selection",

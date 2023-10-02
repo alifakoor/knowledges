@@ -1,1 +1,0 @@
-The reasons why the Zettelkasten method has gained popularity in recent years, including its effectiveness as a tool for academic research, writing, and personal knowledge management, as well as the influence of Luhmann's own prolific use of the method in his own work.

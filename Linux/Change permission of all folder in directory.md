@@ -1,4 +1,4 @@
-[[Linux's Commands]]
+
 
 to change permission all folder in directory:  
 sudo chmod -R 777 /directory/  
