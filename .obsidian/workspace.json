@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "a9f4d796a4dd1b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d5c8f292d532bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96458820de609a5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23f3fe095c1e59c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2309d1b2c6220f66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a5c27aec0daedb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cdb5b8526f97aff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb4d79ffacb677fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c268bb6afa6568fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa71ecd51b829a9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c92e64f20749286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9df946fc7e75228",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11023110662a4ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9844343c8eaa1bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7788d3cd6cad1d2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "513770fde5728cd1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "04a5c27aec0daedb",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2023-10-02.md",
+    "hablol matin/get login code in habl and bab.md",
+    "hablol matin/remove account.md",
+    "hablol matin/لاگین کاربر در حبل.md",
+    "hablol matin/فعال سازی اشتراک HBBYK.md",
+    "Database/PostgreSQL/Reset Sequence in Postgresql.md",
+    "badesaba/اپدیت status پرداخت - aborted.md",
+    "badesaba/badesaba site deploy.md",
+    "badesaba/badesaba.ir.md",
+    "Database Selection/Software architecture factors for choosing a database.md",
+    "Database Selection/OLTP vs OLAP.md",
+    "Database Selection/Comparing databases based on software architecture factors.md",
+    "Database/PostgreSQL",
+    "Database",
+    "Software Architecture/Styles vs Patterns.md",
+    "Software Architecture",
+    "Learning English/Speaking Topic - Third Conditional - 1.md",
+    "Learning English/Speaking Topic - Wednesday Talk - 2023-06-21.md",
+    "Learning English/Speaking Topic - Saturdays Talk - 2023-06-17.md",
+    "Learning English/Speaking Topic - Saturdays Talk - 2023-06-10.md",
+    "Learning/Typescript/keyof.md",
+    "Zettelkasten Method/Youtube.md",
+    "Learning/Typescript/Generics.md",
+    "Learning English/speaking topic.md",
+    "Learning English/Example passive.md",
+    "Learning/Typescript/Utility Types.md",
+    "Learning/Typescript/method overriding.md",
+    "Learning/Typescript/Static members in classes.md",
+    "Learning/Typescript/files/typescript_access_modifiers.png",
+    "hablol matin",
+    "Database Selection",
+    "Learning/Programming/files/object_oriented_programming_languages copy.png",
+    "Learning/Programming/OOP",
+    "badesaba",
+    "Learning/Programming/files/65OD8kGW_t.jpg",
+    "Learning/Programming/files/paradigms.png",
+    "Learning/Programming/files/function copy.jpg",
+    "Learning/Programming/files",
+    "Learning/Programming",
+    "Learning/Typescript/files/types.jpg",
+    "Learning/Typescript/files"
+  ]
+}
