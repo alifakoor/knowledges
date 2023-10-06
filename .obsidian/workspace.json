@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94ad2bab8b72caf8",
+        "id": "6689396c32c9ec4a",
         "type": "tabs",
         "children": [
           {
-            "id": "1c623c317f7c1e58",
+            "id": "667f4deb2ef4dae7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten Method/Youtube.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 636.5
+    "width": 306.5
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten Method/Youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten Method/Youtube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten Method/Youtube.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,44 +148,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "1c623c317f7c1e58",
+  "active": "04a5c27aec0daedb",
   "lastOpenFiles": [
+    "Learning/Typescript/_Index_of_Typescript.md",
+    "Database/_Index_of_Database.md",
+    "Database/PostgreSQL/_Index_of_PostgreSQL.md",
+    "Database Selection/_Index_of_Database Selection.md",
+    "DevOps/_Index_of_DevOps.md",
+    "git/_Index_of_git.md",
+    "Learning/Programming/_Index_of_Programming.md",
+    "Learning/_Index_of_Learning.md",
+    "Learning English/_Index_of_Learning English.md",
+    "Linux/_Index_of_Linux.md",
+    "SDLC (software development lifecycle)/_Index_of_SDLC (software development lifecycle).md",
+    "Software Architecture/_Index_of_Software Architecture.md",
+    "_Index_of_knowledges.md",
+    "Zettelkasten Method/_Index_of_Zettelkasten Method.md",
+    "Zettelkasten Method/Youtube.md",
     "Zettelkasten Method/what is it Zettelkasten method.md",
+    "SDLC (software development lifecycle)/what is the methods.md",
+    "SDLC (software development lifecycle)/what is the steps.md",
+    "SDLC (software development lifecycle)/what is it SDLC.md",
+    "SDLC (software development lifecycle)/what is different between Waterfall, Agile and DevOps.md",
+    "SDLC (software development lifecycle)/what is different between development and deployment.md",
     "Zettelkasten Method/how can I use it for personal knowledge.md",
     "Zettelkasten Method/how can I use it for personal knowledge?.md",
     "Zettelkasten Method/when I created the notes, how can I use them after a while?.md",
     "Zettelkasten Method/when I created the notes, how can I use them after a while.md",
     "Zettelkasten Method/what is it Zettelkasten method?.md",
-    "Zettelkasten Method/why is it famous.md",
-    "Zettelkasten Method/why is it famous?.md",
-    "Linux/Change permission of all folder in directory.md",
-    "Linux/Check folder and subfolder size.md",
-    "Linux/Command for see usage of directories and files.md",
-    "Linux/Install .deb files on ubuntu.md",
-    "Linux/Print last 10 lines of file.md",
-    "Linux/Search in file's content.md",
-    "Linux/Linux's Commands.md",
     "Untitled.canvas",
-    "2023-10-02.md",
-    "hablol matin/get login code in habl and bab.md",
-    "hablol matin/remove account.md",
-    "hablol matin/لاگین کاربر در حبل.md",
-    "hablol matin/فعال سازی اشتراک HBBYK.md",
-    "Database/PostgreSQL/Reset Sequence in Postgresql.md",
-    "badesaba/اپدیت status پرداخت - aborted.md",
-    "badesaba/badesaba site deploy.md",
-    "badesaba/badesaba.ir.md",
-    "Database Selection/Software architecture factors for choosing a database.md",
-    "Database Selection/OLTP vs OLAP.md",
     "Database/PostgreSQL",
     "Database",
     "Software Architecture",
