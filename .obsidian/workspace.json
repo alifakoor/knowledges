@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "667f4deb2ef4dae7",
+            "id": "05aa100a85daef38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "چگونه ستاره سازمان خود باشید؟.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "چگونه ستاره سازمان خود باشید؟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "چگونه ستاره سازمان خود باشید؟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "چگونه ستاره سازمان خود باشید؟.md"
+              }
             }
           },
           {
@@ -157,8 +165,9 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "04a5c27aec0daedb",
+  "active": "05aa100a85daef38",
   "lastOpenFiles": [
+    "چگونه ستاره سازمان خود باشید؟.md",
     "Learning/Typescript/_Index_of_Typescript.md",
     "Database/_Index_of_Database.md",
     "Database/PostgreSQL/_Index_of_PostgreSQL.md",
@@ -184,7 +193,6 @@
     "Zettelkasten Method/how can I use it for personal knowledge?.md",
     "Zettelkasten Method/when I created the notes, how can I use them after a while?.md",
     "Zettelkasten Method/when I created the notes, how can I use them after a while.md",
-    "Zettelkasten Method/what is it Zettelkasten method?.md",
     "Untitled.canvas",
     "Database/PostgreSQL",
     "Database",
