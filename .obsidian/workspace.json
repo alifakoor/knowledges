@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6689396c32c9ec4a",
+        "id": "274291e918426b7f",
         "type": "tabs",
         "children": [
           {
-            "id": "05aa100a85daef38",
+            "id": "03c5a03e27f0015a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "چگونه ستاره سازمان خود باشید؟.md",
+                "file": "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "چگونه ستاره سازمان خود باشید؟.md",
+                "file": "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "چگونه ستاره سازمان خود باشید؟.md",
+                "file": "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "چگونه ستاره سازمان خود باشید؟.md"
+                "file": "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md"
               }
             }
           },
@@ -143,7 +144,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -165,9 +168,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "05aa100a85daef38",
+  "active": "04a5c27aec0daedb",
   "lastOpenFiles": [
     "چگونه ستاره سازمان خود باشید؟.md",
+    "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
     "Learning/Typescript/_Index_of_Typescript.md",
     "Database/_Index_of_Database.md",
     "Database/PostgreSQL/_Index_of_PostgreSQL.md",
@@ -192,7 +196,6 @@
     "Zettelkasten Method/how can I use it for personal knowledge.md",
     "Zettelkasten Method/how can I use it for personal knowledge?.md",
     "Zettelkasten Method/when I created the notes, how can I use them after a while?.md",
-    "Zettelkasten Method/when I created the notes, how can I use them after a while.md",
     "Untitled.canvas",
     "Database/PostgreSQL",
     "Database",
