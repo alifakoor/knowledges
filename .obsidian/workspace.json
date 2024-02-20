@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "274291e918426b7f",
+        "id": "1f92ea05021c7143",
         "type": "tabs",
         "children": [
           {
-            "id": "03c5a03e27f0015a",
+            "id": "63a17776069bd5b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+                "file": "shell script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d04d6b7deb927db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shortcuts in linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+                "file": "shortcuts in linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+                "file": "shortcuts in linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md"
+                "file": "shortcuts in linux.md"
               }
             }
           },
@@ -168,25 +180,8 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "04a5c27aec0daedb",
+  "active": "1c623c317f7c1e58",
   "lastOpenFiles": [
-    "چگونه ستاره سازمان خود باشید؟.md",
-    "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
-    "Learning/Typescript/_Index_of_Typescript.md",
-    "Database/_Index_of_Database.md",
-    "Database/PostgreSQL/_Index_of_PostgreSQL.md",
-    "Database Selection/_Index_of_Database Selection.md",
-    "DevOps/_Index_of_DevOps.md",
-    "git/_Index_of_git.md",
-    "Learning/Programming/_Index_of_Programming.md",
-    "Learning/_Index_of_Learning.md",
-    "Learning English/_Index_of_Learning English.md",
-    "Linux/_Index_of_Linux.md",
-    "SDLC (software development lifecycle)/_Index_of_SDLC (software development lifecycle).md",
-    "Software Architecture/_Index_of_Software Architecture.md",
-    "_Index_of_knowledges.md",
-    "Zettelkasten Method/_Index_of_Zettelkasten Method.md",
-    "Zettelkasten Method/Youtube.md",
     "Zettelkasten Method/what is it Zettelkasten method.md",
     "SDLC (software development lifecycle)/what is the methods.md",
     "SDLC (software development lifecycle)/what is the steps.md",
@@ -197,12 +192,23 @@
     "Zettelkasten Method/how can I use it for personal knowledge?.md",
     "Zettelkasten Method/when I created the notes, how can I use them after a while?.md",
     "Untitled.canvas",
+    "2023-10-02.md",
+    "hablol matin/get login code in habl and bab.md",
+    "hablol matin/remove account.md",
+    "hablol matin/لاگین کاربر در حبل.md",
+    "hablol matin/فعال سازی اشتراک HBBYK.md",
+    "Database/PostgreSQL/Reset Sequence in Postgresql.md",
+    "badesaba/اپدیت status پرداخت - aborted.md",
+    "badesaba/badesaba site deploy.md",
+    "badesaba/badesaba.ir.md",
+    "Database Selection/Software architecture factors for choosing a database.md",
+    "Database Selection/OLTP vs OLAP.md",
     "Database/PostgreSQL",
     "Database",
     "Software Architecture",
     "Learning/Typescript/files/typescript_access_modifiers.png",
     "hablol matin",
-    "Database Selection",
+    "Database/Database Selection",
     "Learning/Programming/files/object_oriented_programming_languages copy.png",
     "Learning/Programming/OOP",
     "badesaba",
@@ -210,8 +216,6 @@
     "Learning/Programming/files/paradigms.png",
     "Learning/Programming/files/function copy.jpg",
     "Learning/Programming/files",
-    "Learning/Programming",
-    "Learning/Typescript/files/types.jpg",
-    "Learning/Typescript/files"
+    "Learning/Typescript/files/types.jpg"
   ]
 }
