@@ -4,52 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1f92ea05021c7143",
-        "id": "1f92ea05021c7143",
+        "id": "f35d13eb8f5db77a",
         "type": "tabs",
         "children": [
           {
-            "id": "63a17776069bd5b1",
+            "id": "571cbc14bd90dd02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shell script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d04d6b7deb927db",
-            "id": "63a17776069bd5b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shell script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d04d6b7deb927db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shortcuts in linux.md",
-                "file": "shortcuts in linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +74,6 @@
     ],
     "direction": "horizontal",
     "width": 364.5
-    "width": 364.5
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -124,8 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shortcuts in linux.md",
-                "file": "shortcuts in linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortcuts in linux.md",
-                "file": "shortcuts in linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,10 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "shortcuts in linux.md"
-                "file": "shortcuts in linux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d04d6b7deb927db",
-  "active": "2d04d6b7deb927db",
+  "active": "04a5c27aec0daedb",
   "lastOpenFiles": [
-    "چگونه ستاره سازمان خود باشید؟.md",
-    "خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+    "soft skill",
+    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+    "Linux/shell script.md",
+    "Linux/shortcuts in linux.md",
+    "soft skill/چگونه ستاره سازمان خود باشید؟.md",
     "git/_Index_of_git.md",
     "_Index_of_knowledges.md",
     "Zettelkasten Method/why is it famous.md",
@@ -227,23 +187,15 @@
     "Database Selection/OLTP vs OLAP.md",
     "Database Selection/Comparing databases based on software architecture factors.md",
     "Database Selection",
-    "shell script.md",
-    "shortcuts in linux.md",
     "Linux/make ssh connection between two servers.md",
-    "Linux/stdout and stderr.md",
     "Docker",
     "ML",
     "Untitled.canvas",
-    "2023-10-02.md",
-    "hablol matin/get login code in habl and bab.md",
-    "hablol matin/remove account.md",
-    "hablol matin/لاگین کاربر در حبل.md",
     "Database/PostgreSQL",
     "Database",
     "Software Architecture",
     "Learning/Typescript/files/typescript_access_modifiers.png",
     "hablol matin",
-    "Database/Database Selection",
     "Database/Database Selection",
     "Learning/Programming/files/object_oriented_programming_languages copy.png",
     "Learning/Programming/OOP",
@@ -251,7 +203,6 @@
     "Learning/Programming/files/65OD8kGW_t.jpg",
     "Learning/Programming/files/paradigms.png",
     "Learning/Programming/files/function copy.jpg",
-    "Learning/Programming/files",
     "Learning/Typescript/files/types.jpg"
   ]
 }
