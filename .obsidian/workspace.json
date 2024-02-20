@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f35d13eb8f5db77a",
+        "id": "873ec1f3b251acda",
         "type": "tabs",
         "children": [
           {
-            "id": "571cbc14bd90dd02",
+            "id": "c24570e79eaaae8c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04a5c27aec0daedb",
+  "active": "c24570e79eaaae8c",
   "lastOpenFiles": [
-    "soft skill",
     "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+    "DevOps/version control.md",
+    "Docker/docker commands.md",
+    "soft skill",
     "Linux/shell script.md",
     "Linux/shortcuts in linux.md",
     "soft skill/چگونه ستاره سازمان خود باشید؟.md",
@@ -187,7 +189,6 @@
     "Database Selection/OLTP vs OLAP.md",
     "Database Selection/Comparing databases based on software architecture factors.md",
     "Database Selection",
-    "Linux/make ssh connection between two servers.md",
     "Docker",
     "ML",
     "Untitled.canvas",
@@ -199,7 +200,6 @@
     "Database/Database Selection",
     "Learning/Programming/files/object_oriented_programming_languages copy.png",
     "Learning/Programming/OOP",
-    "badesaba",
     "Learning/Programming/files/65OD8kGW_t.jpg",
     "Learning/Programming/files/paradigms.png",
     "Learning/Programming/files/function copy.jpg",

@@ -2,11 +2,11 @@
 https://www.youtube.com/watch?v=j5hRuZY7V9w
 
 نکات:
-pulumi
-could sandboxing
-tele present
-kuber helm
-rpc framework
+pulumi - infrastructure as code
+could sandboxing - developed by divar - for resolve dependencies when a developer want to test their changes
+telepresence - https://github.com/telepresenceio/telepresence
+kuber helm - package manager
+rpc framework - 
 service mesh
 
 کدریویو زیر ۲۴ ساعت باید انجام شود
@@ -15,7 +15,7 @@ service mesh
 A/B test
 زیرساخت برای A/B test
 برای اینکه این داستان تست و آزمایش به صورت محصولی و فنی انجام بشه:
-divar experiment
+divar experiment - for test and experience
 مقاله: overlaping experiment infrastructure: more, better, faster experimentation
 experiment orthogonal
 
