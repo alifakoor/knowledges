@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "873ec1f3b251acda",
+        "id": "f19d8b741d29f4c9",
         "type": "tabs",
         "children": [
           {
-            "id": "c24570e79eaaae8c",
+            "id": "cb2456bf8a0869b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/Fundational Cloud Practitioner.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 299.5
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud Engineering/Fundational Cloud Practitioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud Engineering/Fundational Cloud Practitioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud Engineering/Fundational Cloud Practitioner.md"
+              }
             }
           },
           {
@@ -150,7 +158,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,14 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c24570e79eaaae8c",
+  "active": "cb2456bf8a0869b7",
   "lastOpenFiles": [
+    "Cloud Engineering/Cloud Engineering Concepts.md",
+    "Cloud Engineering/Fundational Cloud Practitioner.md",
+    "Cloud Engineering",
+    "Docker/docker commands.md",
+    "Linux/shortcuts in linux.md",
     "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
     "DevOps/version control.md",
-    "Docker/docker commands.md",
     "soft skill",
     "Linux/shell script.md",
-    "Linux/shortcuts in linux.md",
     "soft skill/چگونه ستاره سازمان خود باشید؟.md",
     "git/_Index_of_git.md",
     "_Index_of_knowledges.md",
@@ -186,8 +196,6 @@
     "Database/PostgreSQL/_Index_of_PostgreSQL.md",
     "Database Selection/_Index_of_Database Selection.md",
     "Database Selection/Software architecture factors for choosing a database.md",
-    "Database Selection/OLTP vs OLAP.md",
-    "Database Selection/Comparing databases based on software architecture factors.md",
     "Database Selection",
     "Docker",
     "ML",
@@ -199,7 +207,6 @@
     "hablol matin",
     "Database/Database Selection",
     "Learning/Programming/files/object_oriented_programming_languages copy.png",
-    "Learning/Programming/OOP",
     "Learning/Programming/files/65OD8kGW_t.jpg",
     "Learning/Programming/files/paradigms.png",
     "Learning/Programming/files/function copy.jpg",
