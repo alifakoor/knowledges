@@ -80,7 +80,52 @@ virtualization:
 - ...
 
 
-bare metal virtualization:  
+### Device or OS level virtualization
+
+bare metal virtualization (server virtualization): 
 فناوری مجازی‌سازی است که در آن روی یک کامپیوتر (سخت‌افزار) یک نرم‌افزار به نام hypervisor قرار می‌گیرد که این نرم‌افزار شرایطی را ایجاد می‌کند که کاربر بتواند یک ماشین سخت‌افزاری روی آن داشته باشد
 روی underlay و سخت‌افزار یک نرم‌افزار قرار میگرد، یک overlay، و روی آن یک ماشین مجازی برای کاربر ایجاد میکنیم
+
+OS level virtualization: 
+قبلا در عمل در underlay بیشتر ریسورس‌ها و سخت‌افزار ما قرار میگرفت، اما الان OS هم قرار میگیرد
+در روش قبل ما با استفاده از hypervisor به کاربر سخت‌افزار می‌دادیم تا بر روی آنها OS نصب کند
+اما آیا می‌توانیم OS را هم در underlay گذاشت و دیگر به کاربر ندهیم؟
+مگر کاربر فقط یک اپلیکیشن نمیخواهد؟ آیا نمیتوان فقط آن را با وابستگی‌ها و ملزوماتش به صورت ایزوله اجرا کرد؟
+به این بستر ایزوله که شامل خود اپلیکیشن و وابستگی‌های آن است می‌گوییم -> container
+و ابزاری که فضا را برای آن ایجاد می‌کند می‌گوییم -> run time engine مثل docker
+
+پس برای میزبانی یک اپلیکیشن در دنیای virtualization دو روش داریم:
+اول - استفاده از یک vm که از hypervisor استفاده می‌کند -> device level virtualization
+دوم - استفاده از container و run time engine برای این کار -> OS level virtualization -> اپلیکیشن با تمام ملزوماتش
+
+
+### Network virtualization
+
+VPN (Virtual Private Network): وقتی که در یک شبکه عمومی چند نود یک شبکه خصوصی تشکیل دهند، بطور مثال با یک زبان دیگر صحبت کنند
+
+مثل قبل باز هم اصلاح underlay رو داریم اینجا، با این تفاوت که در اینجا undelay ما شبکه اینترنت است
+در vpn ما می‌توانیم point to point, point to multipoint, multipoint to multipoint داشته باشیم
+
+دلایل استفاده از vpn:
+محرمانگی - confidentiality - چند نود بتوانند بدون اینکه اطلاعات‌ آنها شنود شود تبادل اطلاعات داشته باشند
+یکپارچگی - integrity - سلامت و صحت اطلاعات تبادل شده حفظ شود
+کنترل هویت - authentication
+داشتن anti-reply
+پیاده‌سازی network overlay - داشتن vpn برای اتصال به شبکه خصوصی یک سازمان، انگار مثل قبل روی یک underlay که بستر اینترنت هستش، یک overlay ایجاد می‌کنیم که همون vpn باشه، و بعد با سازمان مربوطه ارتباط برقرار میکنیم
+
+خیلی وقت‌ها vpn رو به عنوان tunneling هم میشناسیم، چند مثال از پروتکل‌ها:
+- multiprotocol label switching -> mpls
+- Virtual eXtensible Local-Area Network -> vxlan
+- Generic Routing Encapsulation Tunnel -> GRE Tunnel
+
+در حوزه امنیت، برای انواع کاربردها مثل احراز هویت و ...:
+- IPSec
+- Secure socket layer -> SSL
+
+حالا اینها رو چطوری میشه پیاده کرد:
+-کپسول کردن - encapsulation
+-رمزنگاری - cryptography مثال روش ElGamal، روش Rivest-Shamir-Adleman (RSA)، روشData Encryption Standard (DES)، روش AES
+-کنترل صحت اطلاعات - integrity - روشهای md5، sha
+-احراز هویت
+
 
