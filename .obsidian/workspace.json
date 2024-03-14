@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Engineering/Fundational Cloud Practitioner.md",
+                "file": "Cloud Engineering/Cloud Engineering Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c8923414bcacbde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/What is Cloud Computing?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Engineering/Fundational Cloud Practitioner.md",
+                "file": "Cloud Engineering/What is Cloud Computing?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Engineering/Fundational Cloud Practitioner.md",
+                "file": "Cloud Engineering/What is Cloud Computing?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Engineering/Fundational Cloud Practitioner.md"
+                "file": "Cloud Engineering/What is Cloud Computing?.md"
               }
             }
           },
@@ -166,9 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb2456bf8a0869b7",
+  "active": "3c8923414bcacbde",
   "lastOpenFiles": [
+    "Cloud Engineering/files/Pasted image 20240314090406.png",
     "Cloud Engineering/Cloud Engineering Concepts.md",
+    "Cloud Engineering/What is Cloud Computing?.md",
     "Cloud Engineering/Fundational Cloud Practitioner.md",
     "Cloud Engineering/files",
     "Cloud Engineering/files/Pasted image 20240313083559.png",
@@ -196,7 +211,6 @@
     "DevOps/_Index_of_DevOps.md",
     "Database/_Index_of_Database.md",
     "Database/PostgreSQL/_Index_of_PostgreSQL.md",
-    "Database Selection/_Index_of_Database Selection.md",
     "Database Selection",
     "Docker",
     "ML",
