@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Engineering/What is Cloud Computing?.md",
+                "file": "Cloud Engineering/What is Service Model?.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Engineering/What is Cloud Computing?.md",
+                "file": "Cloud Engineering/What is Service Model?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Engineering/What is Cloud Computing?.md",
+                "file": "Cloud Engineering/What is Service Model?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Engineering/What is Cloud Computing?.md"
+                "file": "Cloud Engineering/What is Service Model?.md"
               }
             }
           },
@@ -181,9 +181,15 @@
   },
   "active": "3c8923414bcacbde",
   "lastOpenFiles": [
+    "Cloud Engineering/files/Pasted image 20240316090228.png",
+    "Cloud Engineering/files/Pasted image 20240316090029.png",
+    "Cloud Engineering/files/Pasted image 20240316085846.png",
+    "Cloud Engineering/What is Service Model?.md",
+    "Cloud Engineering/files/Pasted image 20240316085658.png",
+    "Cloud Engineering/files/Pasted image 20240316085239.png",
+    "Cloud Engineering/What is Cloud Computing?.md",
     "Cloud Engineering/files/Pasted image 20240314090406.png",
     "Cloud Engineering/Cloud Engineering Concepts.md",
-    "Cloud Engineering/What is Cloud Computing?.md",
     "Cloud Engineering/Fundational Cloud Practitioner.md",
     "Cloud Engineering/files",
     "Cloud Engineering/files/Pasted image 20240313083559.png",
@@ -210,7 +216,6 @@
     "Learning English/_Index_of_Learning English.md",
     "DevOps/_Index_of_DevOps.md",
     "Database/_Index_of_Database.md",
-    "Database/PostgreSQL/_Index_of_PostgreSQL.md",
     "Database Selection",
     "Docker",
     "ML",
@@ -222,8 +227,6 @@
     "hablol matin",
     "Learning/Programming/files/object_oriented_programming_languages copy.png",
     "Learning/Programming/files/65OD8kGW_t.jpg",
-    "Learning/Programming/files/paradigms.png",
-    "Learning/Programming/files/function copy.jpg",
-    "Learning/Typescript/files/types.jpg"
+    "Learning/Programming/files/paradigms.png"
   ]
 }
