@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f19d8b741d29f4c9",
+        "id": "4135dcdcd39c391b",
         "type": "tabs",
         "children": [
           {
-            "id": "cb2456bf8a0869b7",
+            "id": "9aae510702abb73d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Engineering/Cloud Engineering Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c8923414bcacbde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Engineering/What is Service Model?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Engineering/What is Service Model?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Engineering/What is Service Model?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cloud Engineering/What is Service Model?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,17 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c8923414bcacbde",
+  "active": "9aae510702abb73d",
   "lastOpenFiles": [
+    "Cloud Engineering/What is Service Model?.md",
+    "_Index_of_knowledges.md",
+    "Cloud Engineering/Cloud Engineering Concepts.md",
     "Cloud Engineering/files/Pasted image 20240316090228.png",
     "Cloud Engineering/files/Pasted image 20240316090029.png",
     "Cloud Engineering/files/Pasted image 20240316085846.png",
-    "Cloud Engineering/What is Service Model?.md",
     "Cloud Engineering/files/Pasted image 20240316085658.png",
     "Cloud Engineering/files/Pasted image 20240316085239.png",
     "Cloud Engineering/What is Cloud Computing?.md",
     "Cloud Engineering/files/Pasted image 20240314090406.png",
-    "Cloud Engineering/Cloud Engineering Concepts.md",
     "Cloud Engineering/Fundational Cloud Practitioner.md",
     "Cloud Engineering/files",
     "Cloud Engineering/files/Pasted image 20240313083559.png",
@@ -202,7 +182,6 @@
     "Linux/shell script.md",
     "soft skill/چگونه ستاره سازمان خود باشید؟.md",
     "git/_Index_of_git.md",
-    "_Index_of_knowledges.md",
     "Zettelkasten Method/why is it famous.md",
     "Zettelkasten Method/when I created the notes, how can I use them after a while.md",
     "Zettelkasten Method/what is it Zettelkasten method.md",
@@ -226,7 +205,6 @@
     "Learning/Typescript/files/typescript_access_modifiers.png",
     "hablol matin",
     "Learning/Programming/files/object_oriented_programming_languages copy.png",
-    "Learning/Programming/files/65OD8kGW_t.jpg",
-    "Learning/Programming/files/paradigms.png"
+    "Learning/Programming/files/65OD8kGW_t.jpg"
   ]
 }
