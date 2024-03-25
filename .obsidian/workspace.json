@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4135dcdcd39c391b",
+        "id": "a2f573aeac477332",
         "type": "tabs",
         "children": [
           {
-            "id": "9aae510702abb73d",
+            "id": "7b61d4cd317191a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/linter.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps/linter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps/linter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps/linter.md"
+              }
             }
           },
           {
@@ -158,11 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9aae510702abb73d",
+  "active": "7b61d4cd317191a7",
   "lastOpenFiles": [
-    "Cloud Engineering/What is Service Model?.md",
+    "DevOps/devops.md",
     "_Index_of_knowledges.md",
+    "Docker/docker commands.md",
     "Cloud Engineering/Cloud Engineering Concepts.md",
+    "Cloud Engineering/What is Cloud Computing.md",
+    "Cloud Engineering/Service Models.md",
+    "Cloud Engineering/Fundational Cloud Practitioner.md",
+    "Cloud Engineering/Mechanical Sympathy.md",
+    "DevOps/_Index_of_DevOps.md",
+    "DevOps/linter.md",
+    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+    "Cloud Engineering/What is Service Model?.md",
     "Cloud Engineering/files/Pasted image 20240316090228.png",
     "Cloud Engineering/files/Pasted image 20240316090029.png",
     "Cloud Engineering/files/Pasted image 20240316085846.png",
@@ -170,13 +187,10 @@
     "Cloud Engineering/files/Pasted image 20240316085239.png",
     "Cloud Engineering/What is Cloud Computing?.md",
     "Cloud Engineering/files/Pasted image 20240314090406.png",
-    "Cloud Engineering/Fundational Cloud Practitioner.md",
     "Cloud Engineering/files",
     "Cloud Engineering/files/Pasted image 20240313083559.png",
     "Cloud Engineering",
-    "Docker/docker commands.md",
     "Linux/shortcuts in linux.md",
-    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
     "DevOps/version control.md",
     "soft skill",
     "Linux/shell script.md",
@@ -189,12 +203,6 @@
     "Zettelkasten Method/_Index_of_Zettelkasten Method.md",
     "Software Architecture/_Index_of_Software Architecture.md",
     "Linux/_Index_of_Linux.md",
-    "Learning/_Index_of_Learning.md",
-    "Learning/Typescript/_Index_of_Typescript.md",
-    "Learning/Programming/_Index_of_Programming.md",
-    "Learning English/_Index_of_Learning English.md",
-    "DevOps/_Index_of_DevOps.md",
-    "Database/_Index_of_Database.md",
     "Database Selection",
     "Docker",
     "ML",

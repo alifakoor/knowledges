@@ -1,4 +1,7 @@
-Mechanical Sympathy:
+دوره cloud engineering آکادمی آروان
+فصل اول: [[Fundational Cloud Practitioner]]
+
+[[Mechanical Sympathy]]:
 to achieve the best performance and efficiency, one should have a good understanding of how the underlying hardware or system works.
 
 

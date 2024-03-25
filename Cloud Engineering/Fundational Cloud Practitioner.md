@@ -1,3 +1,4 @@
+[[What is Cloud Computing]]
 cloud computing is a ecosystem
 
 یک مجموعه‌ای از فناوری ها در رسیدن به اهداف سیر تکامل تکنولوژی وجود دارند:

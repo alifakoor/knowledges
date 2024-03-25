@@ -11,7 +11,7 @@ NIST: National Institute of Standards and Technology
 
 ![[Pasted image 20240314090406.png]]
 
-در تعریف NIST آماده است که cloud یکسری Essential Characteristics دارد، یکسری خدمات در قالب Service Models ارائه می‌دهد و انواع توسعه مختلفی دارد، Deployment Models
+در تعریف NIST آماده است که cloud یکسری Essential Characteristics دارد، یکسری خدمات در قالب [[Service Models]] ارائه می‌دهد و انواع توسعه مختلفی دارد، Deployment Models
 
 
 ### Essential Characteristics:
