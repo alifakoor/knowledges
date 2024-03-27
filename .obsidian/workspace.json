@@ -4,22 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f573aeac477332",
+        "id": "6add890132e79173",
         "type": "tabs",
         "children": [
           {
-            "id": "7b61d4cd317191a7",
+            "id": "fe684ab072282a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/linter.md",
+                "file": "Cloud Engineering/What is Cloud Computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d3b08033b4587c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/Service Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62e37aae933def36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/Edge Computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2b95513c31a9cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baec72876a0b609f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/Service Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "989ba2ded0e1e982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/Storage Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ace5f559043ce8f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/Service Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/linter.md",
+                "file": "Cloud Engineering/Storage Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/linter.md",
+                "file": "Cloud Engineering/Storage Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/linter.md"
+                "file": "Cloud Engineering/Storage Service.md"
               }
             }
           },
@@ -166,20 +239,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b61d4cd317191a7",
+  "active": "04a5c27aec0daedb",
   "lastOpenFiles": [
-    "DevOps/devops.md",
-    "_Index_of_knowledges.md",
-    "Docker/docker commands.md",
-    "Cloud Engineering/Cloud Engineering Concepts.md",
-    "Cloud Engineering/What is Cloud Computing.md",
+    "Cloud Engineering/files/Pasted image 20240327083937.png",
+    "Cloud Engineering/files/Pasted image 20240327083124.png",
     "Cloud Engineering/Service Models.md",
-    "Cloud Engineering/Fundational Cloud Practitioner.md",
-    "Cloud Engineering/Mechanical Sympathy.md",
-    "DevOps/_Index_of_DevOps.md",
+    "Cloud Engineering/Storage Service.md",
+    "Cloud Engineering/CDN.md",
+    "Cloud Engineering/DNS.md",
+    "Cloud Engineering/Edge Computing.md",
+    "Cloud Engineering/Edge Services.md",
+    "Cloud Engineering/What is Cloud Computing.md",
+    "Cloud Engineering/fog computing.md",
     "DevOps/linter.md",
-    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+    "DevOps/devops.md",
+    "Cloud Engineering/Mechanical Sympathy.md",
+    "Zettelkasten Method/how can I use it for personal knowledge.md",
     "Cloud Engineering/What is Service Model?.md",
+    "_Index_of_knowledges.md",
+    "Cloud Engineering/Cloud Engineering Concepts.md",
     "Cloud Engineering/files/Pasted image 20240316090228.png",
     "Cloud Engineering/files/Pasted image 20240316090029.png",
     "Cloud Engineering/files/Pasted image 20240316085846.png",
@@ -187,22 +265,19 @@
     "Cloud Engineering/files/Pasted image 20240316085239.png",
     "Cloud Engineering/What is Cloud Computing?.md",
     "Cloud Engineering/files/Pasted image 20240314090406.png",
+    "Cloud Engineering/Fundational Cloud Practitioner.md",
     "Cloud Engineering/files",
     "Cloud Engineering/files/Pasted image 20240313083559.png",
     "Cloud Engineering",
+    "Docker/docker commands.md",
     "Linux/shortcuts in linux.md",
+    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
     "DevOps/version control.md",
     "soft skill",
     "Linux/shell script.md",
     "soft skill/چگونه ستاره سازمان خود باشید؟.md",
     "git/_Index_of_git.md",
     "Zettelkasten Method/why is it famous.md",
-    "Zettelkasten Method/when I created the notes, how can I use them after a while.md",
-    "Zettelkasten Method/what is it Zettelkasten method.md",
-    "Zettelkasten Method/how can I use it for personal knowledge.md",
-    "Zettelkasten Method/_Index_of_Zettelkasten Method.md",
-    "Software Architecture/_Index_of_Software Architecture.md",
-    "Linux/_Index_of_Linux.md",
     "Database Selection",
     "Docker",
     "ML",
@@ -212,7 +287,6 @@
     "Software Architecture",
     "Learning/Typescript/files/typescript_access_modifiers.png",
     "hablol matin",
-    "Learning/Programming/files/object_oriented_programming_languages copy.png",
-    "Learning/Programming/files/65OD8kGW_t.jpg"
+    "Learning/Programming/files/object_oriented_programming_languages copy.png"
   ]
 }
