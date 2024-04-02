@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "95e89aad4ef7aa71",
+            "id": "54fc8efc5e2fe389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Engineering/public cloud.md",
+                "file": "Linux/run every .sh file that have special name with special depth.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Engineering/public cloud.md",
+                "file": "Linux/run every .sh file that have special name with special depth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Engineering/public cloud.md",
+                "file": "Linux/run every .sh file that have special name with special depth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Engineering/public cloud.md"
+                "file": "Linux/run every .sh file that have special name with special depth.md"
               }
             }
           },
@@ -177,44 +177,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95e89aad4ef7aa71",
+  "active": "54fc8efc5e2fe389",
   "lastOpenFiles": [
-    "Pasted image 20240402083920.png",
-    "Cloud Engineering/files/Pasted image 20240402083339.png",
+    "Linux/make ssh connection between two servers.md",
+    "Software Architecture/Styles vs Patterns.md",
+    "Programming/Object Oriented Programming.md",
+    "Programming/Programming paradigms.md",
+    "Programming/functional programming.md",
+    "git/create branch from commit.md",
+    "Docker/docker commands.md",
+    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+    "DevOps/linter.md",
+    "DevOps/devops.md",
+    "DevOps/version control.md",
+    "Database/PostgreSQL/Reset Sequence in Postgresql.md",
+    "Database/Database Selection/OLTP vs OLAP.md",
+    "Database/Database Selection/Comparing databases based on software architecture factors.md",
+    "Database/Database Selection/Software architecture factors for choosing a database.md",
     "Cloud Engineering/Cloud Architecture.md",
+    "soft skill/چگونه ستاره سازمان خود باشید؟.md",
     "Cloud Engineering/public cloud.md",
-    "Cloud Engineering/files/Pasted image 20240330104610.png",
-    "multi tenant.md",
     "Cloud Engineering/off-premise.md",
     "Cloud Engineering/on-premise.md",
-    "Cloud Engineering/files/Pasted image 20240330101617.png",
     "Cloud Engineering/cloud development model.md",
-    "Cloud Engineering/files/Pasted image 20240330100257.png",
     "Cloud Engineering/What is Cloud Computing.md",
+    "Cloud Engineering/ترافیک شمالی جنوبی.md",
+    "Cloud Engineering/ترافیک‌های شرقی غربی.md",
+    "Cloud Engineering/Storage Service.md",
+    "Cloud Engineering/Service Models.md",
+    "Cloud Engineering/files/Pasted image 20240402083920 1.png",
+    "Cloud Engineering/files/Pasted image 20240402083339.png",
+    "Cloud Engineering/files/Pasted image 20240330104610.png",
+    "Cloud Engineering/files/Pasted image 20240330101617.png",
+    "Cloud Engineering/files/Pasted image 20240330100257.png",
     "Cloud Engineering/files/Pasted image 20240328084214.png",
     "Cloud Engineering/files/Pasted image 20240328093725.png",
     "Cloud Engineering/files/Pasted image 20240328093341.png",
     "Cloud Engineering/files/Pasted image 20240328082823.png",
-    "Cloud Engineering/ترافیک شمالی جنوبی.md",
-    "Cloud Engineering/ترافیک‌های شرقی غربی.md",
     "Cloud Engineering/files/Pasted image 20240328082250.png",
-    "Cloud Engineering/files/Pasted image 20240328075700.png",
-    "Cloud Engineering/Fundational Cloud Practitioner.md",
-    "Cloud Engineering/Cloud Engineering Concepts.md",
-    "Cloud Engineering/Service Models.md",
-    "Cloud Engineering/Edge Computing.md",
-    "Cloud Engineering/DNS.md",
-    "Cloud Engineering/Storage Service.md",
-    "Cloud Engineering/CDN.md",
-    "Cloud Engineering/Edge Services.md",
-    "Cloud Engineering/fog computing.md",
-    "DevOps/linter.md",
-    "DevOps/devops.md",
-    "Cloud Engineering/Mechanical Sympathy.md",
-    "Zettelkasten Method/how can I use it for personal knowledge.md",
-    "Cloud Engineering/What is Service Model?.md",
-    "_Index_of_knowledges.md",
-    "Cloud Engineering/What is Cloud Computing?.md",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
