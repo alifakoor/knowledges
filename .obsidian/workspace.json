@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "54fc8efc5e2fe389",
+            "id": "4b0e8a0cd92f41cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Engineering/Cloud Engineering Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0cfb64bc6c365d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Engineering/Fundational Cloud Practitioner.md",
+                "file": "Cloud Engineering/public cloud.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +49,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Engineering/Fundational Cloud Practitioner.md",
+                "file": "Cloud Engineering/public cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Engineering/Fundational Cloud Practitioner.md",
+                "file": "Cloud Engineering/public cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Engineering/Fundational Cloud Practitioner.md"
+                "file": "Cloud Engineering/public cloud.md"
               }
             }
           },
@@ -189,9 +177,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0cfb64bc6c365d8",
+  "active": "04a5c27aec0daedb",
   "lastOpenFiles": [
+    "Cloud Engineering/files/Pasted image 20240404084128.png",
+    "Cloud Engineering/files/Pasted image 20240404083933.png",
+    "Cloud Engineering/files/Pasted image 20240404083733.png",
     "Cloud Engineering/Cloud Engineering Concepts.md",
+    "Cloud Engineering/public cloud.md",
+    "Typescript/_Index_of_Typescript.md",
+    "Cloud Engineering/off-premise.md",
+    "Cloud Engineering/on-premise.md",
+    "Cloud Engineering/cloud development model.md",
+    "Cloud Engineering/Cloud Architecture.md",
+    "Cloud Engineering/DNS.md",
+    "Cloud Engineering/Edge Computing.md",
+    "Cloud Engineering/CDN.md",
+    "Cloud Engineering/What is Cloud Computing.md",
+    "Cloud Engineering/Fundational Cloud Practitioner.md",
+    "Cloud Engineering/Service Models.md",
     "Linux/run every .sh file that have special name with special depth.md",
     "Linux/make ssh connection between two servers.md",
     "Software Architecture/Styles vs Patterns.md",
@@ -204,19 +207,6 @@
     "DevOps/linter.md",
     "DevOps/devops.md",
     "DevOps/version control.md",
-    "Database/PostgreSQL/Reset Sequence in Postgresql.md",
-    "Database/Database Selection/OLTP vs OLAP.md",
-    "Database/Database Selection/Comparing databases based on software architecture factors.md",
-    "Database/Database Selection/Software architecture factors for choosing a database.md",
-    "Cloud Engineering/Cloud Architecture.md",
-    "soft skill/چگونه ستاره سازمان خود باشید؟.md",
-    "Cloud Engineering/public cloud.md",
-    "Cloud Engineering/off-premise.md",
-    "Cloud Engineering/on-premise.md",
-    "Cloud Engineering/cloud development model.md",
-    "Cloud Engineering/What is Cloud Computing.md",
-    "Cloud Engineering/ترافیک شمالی جنوبی.md",
-    "Cloud Engineering/ترافیک‌های شرقی غربی.md",
     "Cloud Engineering/files/Pasted image 20240402083920 1.png",
     "Cloud Engineering/files/Pasted image 20240402083339.png",
     "Cloud Engineering/files/Pasted image 20240330104610.png",
@@ -225,8 +215,6 @@
     "Cloud Engineering/files/Pasted image 20240328084214.png",
     "Cloud Engineering/files/Pasted image 20240328093725.png",
     "Cloud Engineering/files/Pasted image 20240328093341.png",
-    "Cloud Engineering/files/Pasted image 20240328082823.png",
-    "Cloud Engineering/files/Pasted image 20240328082250.png",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
