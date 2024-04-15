@@ -40,3 +40,13 @@ Broad Network Access: خدمات هر زمان و هر کجا, any where, any ti
 
 
 برای مهاجرت از یک زیرساخت سنتی به زیرساخت کلد باید چه مواردی را در نظر گرفت؟ [[cloud development model]]
+
+
+در کلاد یکسری اصطلاحات هست که در ادامه به آنها میپردازیم
+[[on-premise]]
+[[off-premise]]
+
+[[insource]]
+[[outsource]]
+![[Pasted image 20240415091330.png]]
+

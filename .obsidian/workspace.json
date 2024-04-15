@@ -18,43 +18,19 @@
             }
           },
           {
-            "id": "e9b83d7c439daed0",
+            "id": "2cb3a869aace212c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Engineering/cloud development model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a7309d72f361223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Engineering/cloud development model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dab18e10cc9fb2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Engineering/hybrid cloud.md",
+                "file": "Cloud Engineering/What is Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Engineering/hybrid cloud.md",
+                "file": "Cloud Engineering/What is Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Engineering/hybrid cloud.md",
+                "file": "Cloud Engineering/What is Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Engineering/hybrid cloud.md"
+                "file": "Cloud Engineering/What is Cloud Computing.md"
               }
             }
           },
@@ -201,12 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dab18e10cc9fb2a",
+  "active": "04a5c27aec0daedb",
   "lastOpenFiles": [
+    "Cloud Engineering/files/Pasted image 20240415091330.png",
+    "Cloud Engineering/cloud development model.md",
+    "Cloud Engineering/off-premise.md",
+    "Cloud Engineering/on-premise.md",
+    "Cloud Engineering/What is Cloud Computing.md",
+    "Cloud Engineering/public cloud.md",
+    "Cloud Engineering/hybrid cloud.md",
     "Cloud Engineering/files/Pasted image 20240415084730.png",
     "Cloud Engineering/files/Pasted image 20240415084637.png",
-    "Cloud Engineering/cloud development model.md",
-    "Cloud Engineering/hybrid cloud.md",
     "Cloud Engineering/community cloud.md",
     "Cloud Engineering/files/Pasted image 20240415084039.png",
     "Cloud Engineering/files/Pasted image 20240415083911.png",
@@ -214,10 +195,8 @@
     "Cloud Engineering/files/Pasted image 20240414090131.png",
     "Cloud Engineering/files/Pasted image 20240414083935.png",
     "Cloud Engineering/files/Pasted image 20240414083724.png",
-    "Cloud Engineering/public cloud.md",
     "Cloud Engineering/ترافیک‌های شرقی غربی.md",
     "Cloud Engineering/ترافیک شمالی جنوبی.md",
-    "Cloud Engineering/on-premise.md",
     "Cloud Engineering/Cloud Engineering Concepts.md",
     "Cloud Engineering/Fundational Cloud Practitioner.md",
     "git/create branch from commit.md",
@@ -225,12 +204,10 @@
     "Cloud Engineering/files/Pasted image 20240404083933.png",
     "Cloud Engineering/files/Pasted image 20240404083733.png",
     "Typescript/_Index_of_Typescript.md",
-    "Cloud Engineering/off-premise.md",
     "Cloud Engineering/Cloud Architecture.md",
     "Cloud Engineering/DNS.md",
     "Cloud Engineering/Edge Computing.md",
     "Cloud Engineering/CDN.md",
-    "Cloud Engineering/What is Cloud Computing.md",
     "Cloud Engineering/Service Models.md",
     "Linux/run every .sh file that have special name with special depth.md",
     "Linux/make ssh connection between two servers.md",
@@ -238,7 +215,6 @@
     "Programming/Object Oriented Programming.md",
     "Programming/Programming paradigms.md",
     "Programming/functional programming.md",
-    "Cloud Engineering/files/Pasted image 20240402083920 1.png",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
