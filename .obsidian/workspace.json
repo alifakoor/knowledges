@@ -35,14 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Engineering/private cloud.md",
+                "file": "Cloud Engineering/cloud development model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dab18e10cc9fb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/hybrid cloud.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Engineering/private cloud.md",
+                "file": "Cloud Engineering/hybrid cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Engineering/private cloud.md",
+                "file": "Cloud Engineering/hybrid cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Engineering/private cloud.md"
+                "file": "Cloud Engineering/hybrid cloud.md"
               }
             }
           },
@@ -189,13 +201,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a7309d72f361223",
+  "active": "2dab18e10cc9fb2a",
   "lastOpenFiles": [
+    "Cloud Engineering/files/Pasted image 20240415084730.png",
+    "Cloud Engineering/files/Pasted image 20240415084637.png",
+    "Cloud Engineering/cloud development model.md",
+    "Cloud Engineering/hybrid cloud.md",
+    "Cloud Engineering/community cloud.md",
+    "Cloud Engineering/files/Pasted image 20240415084039.png",
+    "Cloud Engineering/files/Pasted image 20240415083911.png",
+    "Cloud Engineering/private cloud.md",
     "Cloud Engineering/files/Pasted image 20240414090131.png",
     "Cloud Engineering/files/Pasted image 20240414083935.png",
     "Cloud Engineering/files/Pasted image 20240414083724.png",
-    "Cloud Engineering/cloud development model.md",
-    "Cloud Engineering/private cloud.md",
     "Cloud Engineering/public cloud.md",
     "Cloud Engineering/ترافیک‌های شرقی غربی.md",
     "Cloud Engineering/ترافیک شمالی جنوبی.md",
@@ -220,13 +238,7 @@
     "Programming/Object Oriented Programming.md",
     "Programming/Programming paradigms.md",
     "Programming/functional programming.md",
-    "Docker/docker commands.md",
-    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
     "Cloud Engineering/files/Pasted image 20240402083920 1.png",
-    "Cloud Engineering/files/Pasted image 20240402083339.png",
-    "Cloud Engineering/files/Pasted image 20240330104610.png",
-    "Cloud Engineering/files/Pasted image 20240330101617.png",
-    "Cloud Engineering/files/Pasted image 20240330100257.png",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
