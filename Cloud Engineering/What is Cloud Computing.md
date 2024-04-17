@@ -50,3 +50,58 @@ Broad Network Access: خدمات هر زمان و هر کجا, any where, any ti
 [[outsource]]
 ![[Pasted image 20240415091330.png]]
 
+[[on-site]]
+[[off-site]]
+[[offshore]]
+![[Pasted image 20240417160423.png]]
+
+
+[[service level agreement]]
+![[Pasted image 20240417160621.png]]
+
+
+[[uptime]]
+[[high availability]]
+[[min time to recover]]
+
+
+[[scalability]]
+![[Pasted image 20240417161901.png]]
+
+
+[[scale up]]
+
+![[Pasted image 20240417162105.png]]
+
+
+[[load balancer]]
+
+![[Pasted image 20240417162203.png]]
+
+
+[[microservice]]
+[[cloud native]]
+[[serverless]]
+
+
+[[tenant]]
+
+![[Pasted image 20240417162627.png]]
+
+
+![[Pasted image 20240417162833.png]]
+
+[[dedicated host]]
+[[dedicated instance]]
+
+[[API]]
+
+![[Pasted image 20240417163436.png]]
+
+
+![[Pasted image 20240417164224.png]]
+
+[[SNMP]]
+
+
+
