@@ -16,8 +16,41 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "8ed8f9e129dd0adc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Cloud Engineering/files/Pasted image 20240418080547.png"
+              }
+            }
+          },
+          {
+            "id": "27e9a7335072d028",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Cloud Engineering/files/Pasted image 20240418080827.png"
+              }
+            }
+          },
+          {
+            "id": "12801c4f004a6954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Engineering/اصطلاحات cloud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud Engineering/اصطلاحات cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud Engineering/اصطلاحات cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud Engineering/اصطلاحات cloud.md"
+              }
             }
           },
           {
@@ -160,10 +197,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6f68e980908a063",
+  "active": "12801c4f004a6954",
   "lastOpenFiles": [
-    "Cloud Engineering/files/Pasted image 20240417160621.png",
+    "Cloud Engineering/hybrid cloud.md",
+    "Cloud Engineering/on-premise.md",
+    "Cloud Engineering/private cloud.md",
+    "Cloud Engineering/public cloud.md",
+    "Cloud Engineering/cloud development model.md",
+    "Cloud Engineering/Cloud Architecture.md",
+    "Cloud Engineering/Edge Computing.md",
+    "Cloud Engineering/Storage Service.md",
     "Cloud Engineering/What is Cloud Computing.md",
+    "Cloud Engineering/Service Models.md",
+    "Cloud Engineering/Fundational Cloud Practitioner.md",
+    "Cloud Engineering/Cloud Engineering Concepts.md",
+    "Cloud Engineering/files/Pasted image 20240418080547.png",
+    "Cloud Engineering/files/Pasted image 20240418080827.png",
+    "Cloud Engineering/اصطلاحات cloud.md",
+    "Cloud Engineering/DNS.md",
+    "Cloud Engineering/CDN.md",
+    "Cloud Engineering/files/Pasted image 20240417160621.png",
     "Cloud Engineering/files/Pasted image 20240417164224.png",
     "Cloud Engineering/files/Pasted image 20240417163436.png",
     "Cloud Engineering/files/Pasted image 20240417162833.png",
@@ -171,32 +224,17 @@
     "Cloud Engineering/files/Pasted image 20240417162203.png",
     "Cloud Engineering/files/Pasted image 20240417162105.png",
     "Cloud Engineering/files/Pasted image 20240417161901.png",
-    "Cloud Engineering/files/Pasted image 20240417160423.png",
-    "Cloud Engineering/files/Pasted image 20240415091330.png",
-    "Cloud Engineering/cloud development model.md",
     "Cloud Engineering/off-premise.md",
-    "Cloud Engineering/on-premise.md",
-    "Cloud Engineering/public cloud.md",
-    "Cloud Engineering/hybrid cloud.md",
     "Cloud Engineering/community cloud.md",
-    "Cloud Engineering/private cloud.md",
     "Cloud Engineering/ترافیک‌های شرقی غربی.md",
     "Cloud Engineering/ترافیک شمالی جنوبی.md",
-    "Cloud Engineering/Cloud Engineering Concepts.md",
-    "Cloud Engineering/Fundational Cloud Practitioner.md",
     "git/create branch from commit.md",
     "Typescript/_Index_of_Typescript.md",
-    "Cloud Engineering/Cloud Architecture.md",
-    "Cloud Engineering/DNS.md",
-    "Cloud Engineering/Edge Computing.md",
-    "Cloud Engineering/CDN.md",
-    "Cloud Engineering/Service Models.md",
     "Linux/run every .sh file that have special name with special depth.md",
     "Linux/make ssh connection between two servers.md",
     "Software Architecture/Styles vs Patterns.md",
     "Programming/Object Oriented Programming.md",
     "Programming/Programming paradigms.md",
-    "Programming/functional programming.md",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
