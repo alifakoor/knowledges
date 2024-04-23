@@ -161,3 +161,5 @@ Software Defined Storage - SDS
 
 
 
+در ادامه به بحث [[cloud security]] می‌پردازیم
+
