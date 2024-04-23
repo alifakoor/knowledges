@@ -40,3 +40,6 @@ Broad Network Access: خدمات هر زمان و هر کجا, any where, any ti
 
 
 برای مهاجرت از یک زیرساخت سنتی به زیرساخت کلد باید چه مواردی را در نظر گرفت؟ [[cloud development model]]
+
+
+[[اصطلاحات cloud]]
