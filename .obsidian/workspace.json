@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "0ca386de0b485587",
+            "id": "0440c780f4e5d51c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/devops metrics.md",
+                "file": "DevOps/twelve factor apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/devops metrics.md",
+                "file": "DevOps/twelve factor apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/devops metrics.md",
+                "file": "DevOps/twelve factor apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/devops metrics.md"
+                "file": "DevOps/twelve factor apps.md"
               }
             }
           },
@@ -177,12 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ca386de0b485587",
+  "active": "0440c780f4e5d51c",
   "lastOpenFiles": [
-    "Pasted image 20240427084611.png",
-    "DevOps/files/Pasted image 20240427084047.png",
     "DevOps/0 - devops.md",
+    "DevOps/twelve factor apps.md",
     "DevOps/devops metrics.md",
+    "DevOps/devops tools.md",
+    "DevOps/files/Pasted image 20240427085414.png",
+    "DevOps/files/Pasted image 20240427084611.png",
+    "DevOps/files/Pasted image 20240427084047.png",
     "DevOps/files/Pasted image 20240423084724.png",
     "DevOps/files",
     "self-esteem/اثرات کمبود عزت نفس در زندگی چیست؟.md",
@@ -213,10 +216,7 @@
     "Cloud Engineering/files/Pasted image 20240417164224.png",
     "Cloud Engineering/files/Pasted image 20240417163436.png",
     "Cloud Engineering/files/Pasted image 20240417162833.png",
-    "Cloud Engineering/files/Pasted image 20240417162627.png",
-    "Cloud Engineering/files/Pasted image 20240417162203.png",
     "Cloud Engineering/off-premise.md",
-    "Cloud Engineering/community cloud.md",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
