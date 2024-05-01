@@ -18,19 +18,43 @@
             }
           },
           {
-            "id": "0440c780f4e5d51c",
+            "id": "f5d3ef49949b702d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/twelve factor apps.md",
+                "file": "DevOps/0 - devops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6c89bf444ce9582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/devops -linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c741d7310613405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/vagrant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/twelve factor apps.md",
+                "file": "DevOps/vagrant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/twelve factor apps.md",
+                "file": "DevOps/vagrant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/twelve factor apps.md"
+                "file": "DevOps/vagrant.md"
               }
             }
           },
@@ -177,12 +201,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0440c780f4e5d51c",
+  "active": "04a5c27aec0daedb",
   "lastOpenFiles": [
+    "DevOps/devops -linux.md",
+    "DevOps/vagrant.md",
     "DevOps/0 - devops.md",
+    "DevOps/linux.md",
+    "DevOps/devops tools.md",
     "DevOps/twelve factor apps.md",
     "DevOps/devops metrics.md",
-    "DevOps/devops tools.md",
     "DevOps/files/Pasted image 20240427085414.png",
     "DevOps/files/Pasted image 20240427084611.png",
     "DevOps/files/Pasted image 20240427084047.png",
@@ -210,13 +237,10 @@
     "Cloud Engineering/Edge Computing.md",
     "Cloud Engineering/Storage Service.md",
     "Cloud Engineering/Service Models.md",
-    "Cloud Engineering/DNS.md",
-    "Cloud Engineering/CDN.md",
     "Cloud Engineering/files/Pasted image 20240417160621.png",
     "Cloud Engineering/files/Pasted image 20240417164224.png",
     "Cloud Engineering/files/Pasted image 20240417163436.png",
     "Cloud Engineering/files/Pasted image 20240417162833.png",
-    "Cloud Engineering/off-premise.md",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
