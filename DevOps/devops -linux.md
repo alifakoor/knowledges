@@ -49,17 +49,18 @@ stop
 
 
 ### کامندهای پرکاربرد
-bg, fg, jobs:
+**bg, fg, jobs:**
 
 ![[Pasted image 20240509091646.png]]
 
 ![[Pasted image 20240509091907.png]]
 
-jobs: show all background process
+**jobs:** show all background process
 
-kill -9: در جا پراسس را میکشد و صبر نمیکنه که پراسس کارش تموم بشه
+**kill -9:** در جا پراسس را میکشد و صبر نمیکنه که پراسس کارش تموم بشه
 
 ![[Pasted image 20240509101007.png]]
 
 
 در کامند htop قسمت load average اگر برابر با تعداد cpu's core بود یعنی اینکه از ۱۰۰درصد cpu داره استفاده میشه
+

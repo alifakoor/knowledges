@@ -23,18 +23,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/0 - devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6c89bf444ce9582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "DevOps/devops -linux.md",
                 "mode": "source",
                 "source": false
@@ -42,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,16 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6c89bf444ce9582",
+  "active": "f5d3ef49949b702d",
   "lastOpenFiles": [
+    "DevOps/0 - devops.md",
+    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
+    "DevOps/devops -linux.md",
     "DevOps/files/Pasted image 20240509085755.png",
     "DevOps/files/Pasted image 20240509090002.png",
-    "DevOps/devops -linux.md",
     "DevOps/files/Pasted image 20240509101007.png",
     "DevOps/files/Pasted image 20240509091907.png",
     "DevOps/files/Pasted image 20240509091646.png",
     "DevOps/files/Pasted image 20240509091331.png",
-    "DevOps/0 - devops.md",
     "DevOps/twelve factor apps.md",
     "DevOps/devops tools.md",
     "DevOps/devops metrics.md",
@@ -213,7 +202,6 @@
     "self-esteem/فرض خود انجام.md",
     "self-esteem/0 - دوره عزت نفس متمم.md",
     "self-esteem",
-    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
     "DevOps/version control.md",
     "Cloud Engineering/Fundational Cloud Practitioner.md",
     "Cloud Engineering/What is Cloud Computing.md",
