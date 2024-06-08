@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce118c42e79f574c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Disk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/devops -linux.md",
+                "file": "DevOps/Disk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/devops -linux.md",
+                "file": "DevOps/Disk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/devops -linux.md"
+                "file": "DevOps/Disk.md"
               }
             }
           },
@@ -177,10 +189,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5d3ef49949b702d",
+  "active": "ce118c42e79f574c",
   "lastOpenFiles": [
-    "DevOps/files/Pasted image 20240509101007.png",
     "DevOps/devops -linux.md",
+    "DevOps/Disk.md",
+    "DevOps/files/Pasted image 20240509101007.png",
     "DevOps/0 - devops.md",
     "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
     "DevOps/files/Pasted image 20240509085755.png",
