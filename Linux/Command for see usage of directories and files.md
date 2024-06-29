@@ -1,3 +1,3 @@
 
 
-`du -skh * |sort -h`
+`du -skh * | sort -h`

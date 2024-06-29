@@ -18,31 +18,53 @@
             }
           },
           {
-            "id": "f5d3ef49949b702d",
+            "id": "cc7009444cc91590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/devops -linux.md",
+                "file": "Linux/run every .sh file that have special name with special depth.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ce118c42e79f574c",
+            "id": "d1e12470c33c591d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Disk.md",
+                "file": "Linux/UNIX commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80e2a14da726fcde",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Linux/files/Pasted image 20240629110243.png"
+              }
+            }
+          },
+          {
+            "id": "f636d16c6259cb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/UNIX commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Disk.md",
+                "file": "Linux/UNIX commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Disk.md",
+                "file": "Linux/UNIX commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +178,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Disk.md"
+                "file": "Linux/UNIX commands.md"
               }
+            }
           },
           {
             "id": "513770fde5728cd1",
@@ -188,63 +211,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce118c42e79f574c",
+  "active": "04a5c27aec0daedb",
   "lastOpenFiles": [
-    "DevOps/devops -linux.md",
+    "Linux/files",
+    "Linux/files/Pasted image 20240629110243.png",
+    "Linux/UNIX commands.md",
+    "Linux/run every .sh file that have special name with special depth.md",
+    "Linux/shortcuts in linux.md",
+    "Linux/shell script.md",
+    "Linux/make ssh connection between two servers.md",
+    "Linux/stdout and stderr.md",
+    "Linux/Print last 10 lines of file.md",
+    "Linux/Search in file's content.md",
+    "Linux/Install .deb files on ubuntu.md",
+    "Linux/Check folder and subfolder size.md",
+    "Linux/Change permission of all folder in directory.md",
+    "Linux/Command for see usage of directories and files.md",
+    "Linux/_Index_of_Linux.md",
+    "self-esteem/فرض خود انجام.md",
+    "self-esteem/اثرات کمبود عزت نفس در زندگی چیست؟.md",
+    "self-esteem/0 - دوره عزت نفس متمم.md",
     "DevOps/Disk.md",
+    "DevOps/devops -linux.md",
+    "self-esteem",
+    "DevOps/vagrant.md",
+    "DevOps/twelve factor apps.md",
     "DevOps/files/Pasted image 20240509101007.png",
-    "DevOps/0 - devops.md",
-    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
-    "DevOps/files/Pasted image 20240509085755.png",
-    "DevOps/files/Pasted image 20240509090002.png",
     "DevOps/files/Pasted image 20240509091907.png",
     "DevOps/files/Pasted image 20240509091646.png",
     "DevOps/files/Pasted image 20240509091331.png",
-    "DevOps/twelve factor apps.md",
-    "DevOps/devops tools.md",
-    "DevOps/devops metrics.md",
-    "DevOps/vagrant.md",
-    "DevOps/linux.md",
+    "DevOps/files/Pasted image 20240509090002.png",
+    "DevOps/files/Pasted image 20240509085755.png",
     "DevOps/files/Pasted image 20240427085414.png",
     "DevOps/files/Pasted image 20240427084611.png",
     "DevOps/files/Pasted image 20240427084047.png",
-    "DevOps/files/Pasted image 20240423084724.png",
     "DevOps/files",
-    "self-esteem/اثرات کمبود عزت نفس در زندگی چیست؟.md",
-    "self-esteem/فرض خود انجام.md",
-    "self-esteem/0 - دوره عزت نفس متمم.md",
-    "self-esteem",
+    "DevOps/devops tools.md",
+    "DevOps/devops metrics.md",
+    "DevOps/0 - devops.md",
     "DevOps/devops.md",
     "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
-    "DevOps/version control.md",
-    "Cloud Engineering/Fundational Cloud Practitioner.md",
-    "Cloud Engineering/What is Cloud Computing.md",
-    "Cloud Engineering/Cloud Architecture.md",
-    "Cloud Engineering/cloud security.md",
-    "Cloud Engineering/Cloud Engineering Concepts.md",
-    "Cloud Engineering/اصطلاحات cloud.md",
-    "Cloud Engineering/hybrid cloud.md",
-    "Cloud Engineering/on-premise.md",
-    "Cloud Engineering/private cloud.md",
-    "Cloud Engineering/public cloud.md",
-    "Cloud Engineering/cloud development model.md",
-    "Cloud Engineering/Edge Computing.md",
-    "Cloud Engineering/Storage Service.md",
-    "Cloud Engineering/Service Models.md",
-    "Cloud Engineering/DNS.md",
-    "Cloud Engineering/CDN.md",
-    "Cloud Engineering/files/Pasted image 20240417160621.png",
-    "Cloud Engineering/files/Pasted image 20240417164224.png",
-    "Cloud Engineering/files/Pasted image 20240417163436.png",
-    "Cloud Engineering/files/Pasted image 20240417162833.png",
-    "Cloud Engineering/files/Pasted image 20240417162627.png",
-    "Cloud Engineering/files/Pasted image 20240417162203.png",
-    "Cloud Engineering/files/Pasted image 20240417162105.png",
-    "Cloud Engineering/files/Pasted image 20240417161901.png",
-    "Cloud Engineering/off-premise.md",
-    "Cloud Engineering/community cloud.md",
-    "Cloud Engineering/ترافیک‌های شرقی غربی.md",
-    "Cloud Engineering/ترافیک شمالی جنوبی.md",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
@@ -253,7 +259,6 @@
     "ML",
     "Untitled.canvas",
     "Database/PostgreSQL",
-    "Database",
-    "Software Architecture"
+    "Database"
   ]
 }
