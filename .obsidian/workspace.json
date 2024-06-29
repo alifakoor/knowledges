@@ -158,7 +158,6 @@
               "state": {
                 "file": "DevOps/Disk.md"
               }
-            }
           },
           {
             "id": "513770fde5728cd1",
@@ -215,6 +214,8 @@
     "self-esteem/فرض خود انجام.md",
     "self-esteem/0 - دوره عزت نفس متمم.md",
     "self-esteem",
+    "DevOps/devops.md",
+    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
     "DevOps/version control.md",
     "Cloud Engineering/Fundational Cloud Practitioner.md",
     "Cloud Engineering/What is Cloud Computing.md",
@@ -229,6 +230,21 @@
     "Cloud Engineering/cloud development model.md",
     "Cloud Engineering/Edge Computing.md",
     "Cloud Engineering/Storage Service.md",
+    "Cloud Engineering/Service Models.md",
+    "Cloud Engineering/DNS.md",
+    "Cloud Engineering/CDN.md",
+    "Cloud Engineering/files/Pasted image 20240417160621.png",
+    "Cloud Engineering/files/Pasted image 20240417164224.png",
+    "Cloud Engineering/files/Pasted image 20240417163436.png",
+    "Cloud Engineering/files/Pasted image 20240417162833.png",
+    "Cloud Engineering/files/Pasted image 20240417162627.png",
+    "Cloud Engineering/files/Pasted image 20240417162203.png",
+    "Cloud Engineering/files/Pasted image 20240417162105.png",
+    "Cloud Engineering/files/Pasted image 20240417161901.png",
+    "Cloud Engineering/off-premise.md",
+    "Cloud Engineering/community cloud.md",
+    "Cloud Engineering/ترافیک‌های شرقی غربی.md",
+    "Cloud Engineering/ترافیک شمالی جنوبی.md",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
@@ -237,6 +253,7 @@
     "ML",
     "Untitled.canvas",
     "Database/PostgreSQL",
-    "Database"
+    "Database",
+    "Software Architecture"
   ]
 }
