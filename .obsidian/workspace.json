@@ -211,8 +211,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04a5c27aec0daedb",
+  "active": "f636d16c6259cb1d",
   "lastOpenFiles": [
+    "Linux/files/Pasted image 20240630084116.png",
     "Linux/files",
     "Linux/files/Pasted image 20240629110243.png",
     "Linux/UNIX commands.md",
@@ -258,7 +259,6 @@
     "Docker",
     "ML",
     "Untitled.canvas",
-    "Database/PostgreSQL",
-    "Database"
+    "Database/PostgreSQL"
   ]
 }

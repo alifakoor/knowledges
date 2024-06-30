@@ -1,11 +1,9 @@
 ## shell globbing (wildcards)
-
 ### *
 `echo *` echo all filenames that are in the current directory
 `echo at*` all filenames that start with `at`
 `echo *at` all filenames that end with `at`
 `echo *at*` all filenames that contain `at`
-
 ### ?
 `echo b?at` match `boat` and `brat`
 
@@ -72,4 +70,16 @@ add directory to `PATH`:
 ![[Pasted image 20240629110243.png]]
 
 
+
+## manual page
+`man ls`
+
+`man -k [keyword]` for example `man -k sort`:
+This is helpful if you don’t quite know the name of the command that you want.
+The output includes the manual page name, the manual section (see below), and a quick description of what the manual page contains.
+
+![[Pasted image 20240630084116.png]]
+
+Some common terms have many matching manual pages across several sections. By default, man displays the first page that it finds. You can select a manual page by section.
+`man 5 passwd`
 
