@@ -119,4 +119,49 @@ show logs for special app and follow:
 journalctl -u [app] -f
 ```
 
+show logs based on search regex:
+``` bash
+journalctl -g [regex_pattern]
+```
+
+show logs since 2 days ago:
+``` bash
+journalctl --since "2 days ago"
+journalctl --since yesterday
+```
+
+show logs since `date1` until `date2`:
+``` bash
+journalctl --since [date1] --until [date2]
+journalctl --since "2024-01-01" --until "2024-01-30 06:00:00"
+journalctl --since "09:00" --until "1 hour ago"
+```
+
+show logs that are filtered based on User ID (UID) or Porcess ID (PID):
+``` bash
+journalctl _UID=108
+journalctl _PID=667
+```
+
+show volume usage by logs;
+``` bash
+journalctl --disk-usage
+```
+
+ Reduce disk usage below specified size:
+``` bash
+ journalctl --vacuum-size=BYTES
+```
+ 
+ Leave only the specified number of journal files:
+``` bash
+ journalctl --vacuum-files=INT
+```
+ 
+ Remove journal files older than specified time:
+``` bash
+ journalctl --vacuum-time=TIME
+```
+
+
 
