@@ -83,3 +83,44 @@ The output includes the manual page name, the manual section (see below), and a 
 Some common terms have many matching manual pages across several sections. By default, man displays the first page that it finds. You can select a manual page by section.
 `man 5 passwd`
 
+
+
+## Command for see usage of directories and files
+`du -skh * | sort -h`
+
+
+## Change permission of all folder in directory
+to change permission all folder in directory:  
+`sudo chmod -R 777 /directory/`
+  
+permission:  
+[u(user)g(group)o(other)a(all)]  
+0 – no permission  
+1 – execute  
+2 – write  
+3 – write and execute  
+4 – read  
+5 – read and execute  
+6 – read and write  
+7 – read, write, and execute
+
+
+## Check folder and subfolder size
+`du -ah . | sort -rh | head -n 50`
+
+
+## Install .deb files on ubuntu
+`sudo dpkg -i [file_name].deb`
+
+
+## Search in file's content
+command for search in all file's content in a directory
+`grep -r [pattern] [directory]`
+
+
+## Print last 10 lines of file
+we can use `tail` command for print last 10 lines of file
+e.g:
+`tail [file_name]`
+
+

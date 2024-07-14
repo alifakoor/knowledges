@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "aebf19c0ca68c3e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/0 - devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -104,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/0 - devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/0 - devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DevOps/0 - devops.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,30 +160,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aebf19c0ca68c3e6",
+  "active": "b6f68e980908a063",
   "lastOpenFiles": [
-    "DevOps/devops metrics.md",
-    "Linux/run every .sh file that have special name with special depth.md",
-    "Linux/UNIX commands.md",
-    "Linux/files/Pasted image 20240629110243.png",
-    "Linux/files/Pasted image 20240630084116.png",
-    "Linux/files",
-    "Linux/shortcuts in linux.md",
-    "Linux/shell script.md",
-    "Linux/make ssh connection between two servers.md",
+    "DevOps/devops -linux.md",
+    "_Index_of_knowledges.md",
+    "Linux/0 - linux index.md",
+    "Linux/commands.md",
     "Linux/stdout and stderr.md",
+    "Linux/SSH.md",
+    "Linux/shortcuts.md",
+    "Linux/shell script.md",
+    "Linux/run every .sh file that have special name with special depth.md",
     "Linux/Print last 10 lines of file.md",
     "Linux/Search in file's content.md",
     "Linux/Install .deb files on ubuntu.md",
     "Linux/Check folder and subfolder size.md",
     "Linux/Change permission of all folder in directory.md",
     "Linux/Command for see usage of directories and files.md",
-    "Linux/_Index_of_Linux.md",
+    "Linux/systemd.md",
+    "Cloud Engineering/Cloud Engineering Concepts.md",
+    "Cloud Engineering/Fundational Cloud Practitioner.md",
+    "DevOps/0 - devops.md",
+    "DevOps/devops metrics.md",
+    "Linux/files/Pasted image 20240629110243.png",
+    "Linux/files/Pasted image 20240630084116.png",
+    "Linux/files",
     "self-esteem/فرض خود انجام.md",
     "self-esteem/اثرات کمبود عزت نفس در زندگی چیست؟.md",
     "self-esteem/0 - دوره عزت نفس متمم.md",
     "DevOps/Disk.md",
-    "DevOps/devops -linux.md",
     "self-esteem",
     "DevOps/vagrant.md",
     "DevOps/twelve factor apps.md",
@@ -213,10 +201,6 @@
     "DevOps/files/Pasted image 20240427085414.png",
     "DevOps/files/Pasted image 20240427084611.png",
     "DevOps/files",
-    "DevOps/devops tools.md",
-    "DevOps/0 - devops.md",
-    "DevOps/devops.md",
-    "DevOps/خلاصه ویدئو Code Connect (فرآیند توسعه در دیوار - مصطفی مشکاتی).md",
     "Cloud Engineering/files",
     "Cloud Engineering",
     "soft skill",
