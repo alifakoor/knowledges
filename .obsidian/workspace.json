@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "4ef281e0892be221",
+            "id": "ad779a0e1352d025",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/systemd.md",
+                "file": "Linux/memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/systemd.md",
+                "file": "Linux/memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/systemd.md",
+                "file": "Linux/memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/systemd.md"
+                "file": "Linux/memory.md"
               }
             }
           },
@@ -177,15 +177,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ef281e0892be221",
+  "active": "ad779a0e1352d025",
   "lastOpenFiles": [
-    "Linux/Service Unit.md",
+    "Linux/files/Pasted image 20240715132027.png",
+    "Linux/0 - linux index.md",
+    "Linux/memory.md",
+    "Linux/files/Pasted image 20240715131425.png",
+    "Linux/files/Pasted image 20240715130136.png",
+    "Linux/files/Pasted image 20240715125153.png",
+    "Linux/files/Pasted image 20240715125121.png",
+    "Linux/files/Pasted image 20240715124821.png",
+    "Linux/files/Pasted image 20240715124257.png",
+    "Linux/files/Pasted image 20240715085327.png",
+    "Linux/files/Pasted image 20240715085259.png",
+    "Linux/files/Pasted image 20240715085107.png",
+    "Linux/files/Pasted image 20240715085022.png",
     "Linux/systemd.md",
+    "Linux/Service Unit.md",
     "DevOps/devops -linux.md",
     "DevOps/0 - devops.md",
     "DevOps/Disk.md",
     "_Index_of_knowledges.md",
-    "Linux/0 - linux index.md",
     "Linux/commands.md",
     "Linux/stdout and stderr.md",
     "Linux/SSH.md",
@@ -201,22 +213,10 @@
     "Cloud Engineering/Cloud Engineering Concepts.md",
     "Cloud Engineering/Fundational Cloud Practitioner.md",
     "DevOps/devops metrics.md",
-    "Linux/files/Pasted image 20240629110243.png",
-    "Linux/files/Pasted image 20240630084116.png",
     "Linux/files",
     "self-esteem/فرض خود انجام.md",
     "self-esteem/اثرات کمبود عزت نفس در زندگی چیست؟.md",
-    "self-esteem/0 - دوره عزت نفس متمم.md",
     "self-esteem",
-    "DevOps/vagrant.md",
-    "DevOps/files/Pasted image 20240509101007.png",
-    "DevOps/files/Pasted image 20240509091907.png",
-    "DevOps/files/Pasted image 20240509091646.png",
-    "DevOps/files/Pasted image 20240509091331.png",
-    "DevOps/files/Pasted image 20240509090002.png",
-    "DevOps/files/Pasted image 20240509085755.png",
-    "DevOps/files/Pasted image 20240427085414.png",
-    "DevOps/files/Pasted image 20240427084611.png",
     "DevOps/files",
     "Cloud Engineering/files",
     "Cloud Engineering",
