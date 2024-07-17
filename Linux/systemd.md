@@ -163,5 +163,3 @@ journalctl --disk-usage
  journalctl --vacuum-time=TIME
 ```
 
-
-

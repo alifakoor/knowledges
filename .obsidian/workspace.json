@@ -18,19 +18,43 @@
             }
           },
           {
-            "id": "ad779a0e1352d025",
+            "id": "9aa7ebfc29911d68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/memory.md",
+                "file": "Linux/0 - linux index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbd367ba4438a050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/boot process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40db2fdd3a00b9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/initramfs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/memory.md",
+                "file": "Linux/initramfs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/memory.md",
+                "file": "Linux/initramfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/memory.md"
+                "file": "Linux/initramfs.md"
               }
             }
           },
@@ -177,22 +201,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad779a0e1352d025",
+  "active": "40db2fdd3a00b9a1",
   "lastOpenFiles": [
-    "Linux/files/Pasted image 20240715132027.png",
+    "Linux/boot process.md",
+    "Linux/initramfs.md",
     "Linux/0 - linux index.md",
+    "Linux/systemd.md",
     "Linux/memory.md",
+    "Linux/run levels.md",
+    "Linux/files/Pasted image 20240715140858.png",
+    "Linux/files/Pasted image 20240715140816.png",
+    "Linux/virtualization.md",
+    "Linux/files/Pasted image 20240715140407.png",
+    "Linux/files/Pasted image 20240715132027.png",
     "Linux/files/Pasted image 20240715131425.png",
     "Linux/files/Pasted image 20240715130136.png",
     "Linux/files/Pasted image 20240715125153.png",
     "Linux/files/Pasted image 20240715125121.png",
     "Linux/files/Pasted image 20240715124821.png",
     "Linux/files/Pasted image 20240715124257.png",
-    "Linux/files/Pasted image 20240715085327.png",
-    "Linux/files/Pasted image 20240715085259.png",
-    "Linux/files/Pasted image 20240715085107.png",
-    "Linux/files/Pasted image 20240715085022.png",
-    "Linux/systemd.md",
     "Linux/Service Unit.md",
     "DevOps/devops -linux.md",
     "DevOps/0 - devops.md",
@@ -212,10 +239,7 @@
     "Linux/Command for see usage of directories and files.md",
     "Cloud Engineering/Cloud Engineering Concepts.md",
     "Cloud Engineering/Fundational Cloud Practitioner.md",
-    "DevOps/devops metrics.md",
     "Linux/files",
-    "self-esteem/فرض خود انجام.md",
-    "self-esteem/اثرات کمبود عزت نفس در زندگی چیست؟.md",
     "self-esteem",
     "DevOps/files",
     "Cloud Engineering/files",
