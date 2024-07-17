@@ -11,7 +11,7 @@ cloud computing is a ecosystem
 	
 **نتیجه:** برداشتن محدودیت فاصله بین کاربران و منابع اتصال به شبکه، مستقل از نرم‌افزار و سخت‌افزار، فقط نیاز بود که هر نود محاسباتی دارای پروتکل TCP/IP باشد
 
-- OS ([[operating system]]), Hardware, [[Kernel]], [[Shell]], User Interface -> [[UNIX]], multi user -> 2nd generation of OS
+- OS ([[operating system]]), Hardware, [[kernel]], [[Shell]], User Interface -> [[UNIX]], multi user -> 2nd generation of OS
 
 - [[Network Operating System]], NOS, linux, microsoft -> 3th generation of OS
 این سیستم عامل‌ها هم multi user هستند اما محدودیتی با این عنوان که کاربر حتما باید بلد باشد با UI یا shell سیستم سرور آشنایی کامل باشه را ندارد
