@@ -6,6 +6,7 @@ concepts:
 [[virtualization]]
 [[run levels]]
 [[boot process]]
+[[lvm]]
 
 
 tools:

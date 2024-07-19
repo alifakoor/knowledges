@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "ad779a0e1352d025",
+            "id": "d47a648587041b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,31 +30,19 @@
             }
           },
           {
-            "id": "6cba107c31403976",
+            "id": "31725e3d2e31c7e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/boot process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59596424581cfe4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/kernel.md",
+                "file": "Linux/lvm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/kernel.md",
+                "file": "Linux/lvm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/kernel.md",
+                "file": "Linux/lvm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/kernel.md"
+                "file": "Linux/lvm.md"
               }
             }
           },
@@ -201,29 +189,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59596424581cfe4c",
+  "active": "31725e3d2e31c7e1",
   "lastOpenFiles": [
-    "Linux/boot process.md",
+    "Linux/files/lvm-levels.jpg",
+    "Linux/lvm.md",
+    "Linux/files/lvm.webp",
+    "Linux/files/Pasted image 20240719221314.png",
+    "Linux/files/basic-lvm-volume_0.png",
+    "Linux/0 - linux index.md",
     "Linux/kernel.md",
+    "Linux/boot process.md",
+    "Linux/initramfs.md",
     "Linux/boot loader.md",
     "Linux/BIOS.md",
-    "Linux/0 - linux index.md",
-    "Linux/virtualization.md",
+    "Linux/systemd.md",
+    "Linux/memory.md",
     "Linux/run levels.md",
-    "Linux/initramfs.md",
     "Linux/files/Pasted image 20240715140858.png",
     "Linux/files/Pasted image 20240715140816.png",
+    "Linux/virtualization.md",
     "Linux/files/Pasted image 20240715140407.png",
-    "boot process.md",
-    "Linux/memory.md",
     "Linux/files/Pasted image 20240715132027.png",
     "Linux/files/Pasted image 20240715131425.png",
     "Linux/files/Pasted image 20240715130136.png",
-    "Linux/files/Pasted image 20240715125153.png",
-    "Linux/files/Pasted image 20240715125121.png",
-    "Linux/files/Pasted image 20240715124821.png",
-    "Linux/files/Pasted image 20240715124257.png",
-    "Linux/systemd.md",
     "Linux/Service Unit.md",
     "DevOps/devops -linux.md",
     "DevOps/0 - devops.md",
@@ -238,7 +226,6 @@
     "Linux/Print last 10 lines of file.md",
     "Linux/Search in file's content.md",
     "Linux/Install .deb files on ubuntu.md",
-    "Linux/Check folder and subfolder size.md",
     "Linux/files",
     "self-esteem",
     "DevOps/files",
