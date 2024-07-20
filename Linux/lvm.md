@@ -39,74 +39,45 @@ lvm structure:
 
 ### Basic LVM Commands:
 
-1. **Creating a Physical Volume**:
-    ```sh
-    pvcreate /dev/sdX
-    ```
+list block devices:
+```sh
+lsblk
+```
 
-2. **Creating a Volume Group**:
-    ```sh
-    vgcreate my_volume_group /dev/sdX1 /dev/sdX2
-    ```
+show volume group:
+``` sh
+sudo vgs
+```
 
-3. **Creating a Logical Volume**:
-    ```sh
-    lvcreate -L 10G -n my_logical_volume my_volume_group
-    ```
+show information about logical volumes:
+```sh
+sudo lvs
+```
 
-4. **Resizing a Logical Volume**:
-    - To extend:
-        ```sh
-        lvextend -L +5G /dev/my_volume_group/my_logical_volume
-        ```
-    - To reduce (after reducing the filesystem first):
-        ```sh
-        lvreduce -L -5G /dev/my_volume_group/my_logical_volume
-        ```
 
-5. **Creating a Filesystem on a Logical Volume**:
-    ```sh
-    mkfs.ext4 /dev/my_volume_group/my_logical_volume
-    ```
+حالا میخوایم یه سناریو باهم پیش ببریم:
+اگر دستور `lsblk` رو بزنیم خروجی مثلا به شکل زیر هستش:
 
-6. **Mounting a Logical Volume**:
-    ```sh
-    mount /dev/my_volume_group/my_logical_volume /mnt/my_mount_point
-    ```
+![[Pasted image 20240720201023.png]]
 
-### Example Workflow:
+حالا فکر کنید اون دیسک 64 گیگیمون پر شده و میخوایم که اون دیسک sdb که ۲۵ گیگ هستش رو به اون اضافه کنیم و بشه 89 گیگ، بریم که باهم داشته باشیم:
+اولین کاری که میکنیم پارتیشن‌بندیه
+```sh
+sudo fdisk /dev/sdb
+```
+*مراحل مربوط به پارتیشن‌بندی را انجام میدهیم
 
-1. **Initialize Physical Volumes**:
-    ```sh
-    pvcreate /dev/sda1 /dev/sdb1
-    ```
 
-2. **Create a Volume Group**:
-    ```sh
-    vgcreate my_vg /dev/sda1 /dev/sdb1
-    ```
+show physical volumes:
+```sh
+sudo pvs
+```
 
-3. **Create a Logical Volume**:
-    ```sh
-    lvcreate -L 20G -n my_lv my_vg
-    ```
-
-4. **Create a Filesystem on the Logical Volume**:
-    ```sh
-    mkfs.ext4 /dev/my_vg/my_lv
-    ```
-
-5. **Mount the Logical Volume**:
-    ```sh
-    mount /dev/my_vg/my_lv /mnt/my_data
-    ```
-
-6. **Resize the Logical Volume**:
-    ```sh
-    lvextend -L +10G /dev/my_vg/my_lv
-    resize2fs /dev/my_vg/my_lv
-    ```
-
-Using LVM, you can efficiently manage disk storage in a flexible and scalable way, making it a powerful tool for system administrators.
+میتونیم یک physical volume بسازیم
+اما میتونیم یک volume group بسازیم و پیش فرض خودش physical volume هم میسازه
+برای ساختنش از دستور زیر استفاده می‌کنیم:
+```sh
+vgextend [volume_group_name] [partition_that_you_want_to_add]
+```
 
 

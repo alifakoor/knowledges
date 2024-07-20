@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -191,6 +192,7 @@
   },
   "active": "31725e3d2e31c7e1",
   "lastOpenFiles": [
+    "Pasted image 20240720201023.png",
     "Linux/files/lvm-levels.jpg",
     "Linux/lvm.md",
     "Linux/files/lvm.webp",
