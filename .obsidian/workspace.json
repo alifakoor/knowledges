@@ -23,18 +23,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/0 - linux index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31725e3d2e31c7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Linux/lvm.md",
                 "mode": "source",
                 "source": false
@@ -42,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -190,15 +177,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31725e3d2e31c7e1",
+  "active": "d47a648587041b36",
   "lastOpenFiles": [
-    "Pasted image 20240720201023.png",
-    "Linux/files/lvm-levels.jpg",
+    "Linux/0 - linux index.md",
+    "Linux/files/Pasted image 20240720201023.png",
     "Linux/lvm.md",
+    "Linux/files/Pasted image 20240724084601.png",
+    "Linux/files/Pasted image 20240724080354.png",
+    "Linux/files/Pasted image 20240724080230.png",
+    "Linux/files/Pasted image 20240724080017.png",
+    "Linux/files/Pasted image 20240722075733.png",
+    "Linux/files/lvm-levels.jpg",
     "Linux/files/lvm.webp",
     "Linux/files/Pasted image 20240719221314.png",
     "Linux/files/basic-lvm-volume_0.png",
-    "Linux/0 - linux index.md",
     "Linux/kernel.md",
     "Linux/boot process.md",
     "Linux/initramfs.md",
@@ -207,13 +199,7 @@
     "Linux/systemd.md",
     "Linux/memory.md",
     "Linux/run levels.md",
-    "Linux/files/Pasted image 20240715140858.png",
-    "Linux/files/Pasted image 20240715140816.png",
     "Linux/virtualization.md",
-    "Linux/files/Pasted image 20240715140407.png",
-    "Linux/files/Pasted image 20240715132027.png",
-    "Linux/files/Pasted image 20240715131425.png",
-    "Linux/files/Pasted image 20240715130136.png",
     "Linux/Service Unit.md",
     "DevOps/devops -linux.md",
     "DevOps/0 - devops.md",
