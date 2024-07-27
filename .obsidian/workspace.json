@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29dd83018c553634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/lvm.md",
+                "file": "RAID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/lvm.md",
+                "file": "RAID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/lvm.md"
+                "file": "RAID.md"
               }
             }
           },
@@ -177,11 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d47a648587041b36",
+  "active": "29dd83018c553634",
   "lastOpenFiles": [
+    "Linux/lvm.md",
+    "RAID.md",
     "Linux/0 - linux index.md",
     "Linux/files/Pasted image 20240720201023.png",
-    "Linux/lvm.md",
     "Linux/files/Pasted image 20240724084601.png",
     "Linux/files/Pasted image 20240724080354.png",
     "Linux/files/Pasted image 20240724080230.png",
