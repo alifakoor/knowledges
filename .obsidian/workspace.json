@@ -18,24 +18,24 @@
             }
           },
           {
-            "id": "d47a648587041b36",
+            "id": "0a7afcdc1153c615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/lvm.md",
+                "file": "Linux/0 - linux index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "29dd83018c553634",
+            "id": "a95ba29c1499cc18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAID.md",
+                "file": "Linux/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RAID.md",
+                "file": "Linux/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RAID.md",
+                "file": "Linux/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAID.md"
+                "file": "Linux/SSH.md"
               }
             }
           },
@@ -190,11 +189,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29dd83018c553634",
+  "active": "a95ba29c1499cc18",
   "lastOpenFiles": [
-    "Linux/lvm.md",
-    "RAID.md",
     "Linux/0 - linux index.md",
+    "Linux/socket.md",
+    "Linux/SSH.md",
+    "Linux/memory.md",
+    "Linux/initramfs.md",
+    "Linux/kernel.md",
+    "Linux/lvm.md",
+    "Linux/RAID.md",
     "Linux/files/Pasted image 20240720201023.png",
     "Linux/files/Pasted image 20240724084601.png",
     "Linux/files/Pasted image 20240724080354.png",
@@ -205,13 +209,10 @@
     "Linux/files/lvm.webp",
     "Linux/files/Pasted image 20240719221314.png",
     "Linux/files/basic-lvm-volume_0.png",
-    "Linux/kernel.md",
     "Linux/boot process.md",
-    "Linux/initramfs.md",
     "Linux/boot loader.md",
     "Linux/BIOS.md",
     "Linux/systemd.md",
-    "Linux/memory.md",
     "Linux/run levels.md",
     "Linux/virtualization.md",
     "Linux/Service Unit.md",
@@ -221,13 +222,11 @@
     "_Index_of_knowledges.md",
     "Linux/commands.md",
     "Linux/stdout and stderr.md",
-    "Linux/SSH.md",
     "Linux/shortcuts.md",
     "Linux/shell script.md",
     "Linux/run every .sh file that have special name with special depth.md",
     "Linux/Print last 10 lines of file.md",
     "Linux/Search in file's content.md",
-    "Linux/Install .deb files on ubuntu.md",
     "Linux/files",
     "self-esteem",
     "DevOps/files",

@@ -7,6 +7,7 @@ concepts:
 [[run levels]]
 [[boot process]]
 [[lvm]]
+[[socket]]
 
 
 tools:
