@@ -35,14 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH.md",
+                "file": "Linux/0 - linux index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a8e7b2666e70079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/user and group.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH.md",
+                "file": "Linux/user and group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH.md",
+                "file": "Linux/user and group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SSH.md"
+                "file": "Linux/user and group.md"
               }
             }
           },
@@ -189,8 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a95ba29c1499cc18",
+  "active": "8a8e7b2666e70079",
   "lastOpenFiles": [
+    "Linux/files/sudoers-syntax.png",
+    "Linux/files/Pasted image 20240729160557.png",
+    "Linux/files/Pasted image 20240729160418.png",
+    "Linux/0 - linux index.md",
+    "Linux/user and group.md",
+    "Linux/SSH.md",
     "Linux/files/Pasted image 20240729154026.png",
     "Linux/files/Pasted image 20240729125836.png",
     "Linux/files/Pasted image 20240729122418.png",
@@ -200,17 +218,12 @@
     "Linux/files/Pasted image 20240729112015.png",
     "Linux/files/Pasted image 20240729104904.png",
     "Linux/SSH agent.md",
-    "Linux/SSH.md",
-    "Linux/files/Pasted image 20240729102842.png",
-    "Linux/0 - linux index.md",
     "Linux/socket.md",
     "Linux/memory.md",
     "Linux/initramfs.md",
     "Linux/kernel.md",
     "Linux/lvm.md",
     "Linux/RAID.md",
-    "Linux/files/Pasted image 20240720201023.png",
-    "Linux/files/Pasted image 20240724084601.png",
     "Linux/boot process.md",
     "Linux/boot loader.md",
     "Linux/BIOS.md",
@@ -226,7 +239,6 @@
     "Linux/stdout and stderr.md",
     "Linux/shortcuts.md",
     "Linux/shell script.md",
-    "Linux/run every .sh file that have special name with special depth.md",
     "Linux/files",
     "self-esteem",
     "DevOps/files",

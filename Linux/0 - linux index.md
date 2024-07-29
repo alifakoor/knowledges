@@ -8,6 +8,7 @@ concepts:
 [[boot process]]
 [[lvm]]
 [[socket]]
+[[user and group]]
 
 
 tools:
