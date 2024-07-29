@@ -28,7 +28,15 @@ Remember, the specifics can vary depending on your server's configuration and th
 
 جایی که ازش داریم ssh میزنیم رو بهش میگیم client و جایی که داریم بهش ssh میزنیم بهش میگیم سرور، ممکنه شما از یه سرور دیگه ssh بزنی ولی در اون لحظه اون سرور میشه client
 
-#### SSH commands:
+### SSH Directory and Files:
+هر کاربر در مسیر `/home/[username]` یک دایرکتوری داره به نام `.ssh` که در آن یکسری فایل قرار میگیره
+یکی از این فایل‌ها `authorized_keys` هستش که public key ما اگر بخواهیم به این سرور ssh بزنیم در این فایل قرار میگیره
+برای اینکه public keyتون رو به این فایل در سرور مدنظرتون اضافه کنید، یه حالت اینکه محتوای این فایل رو کپی کنید و در اون فایل کپی کنید، و یه حالتم اینکه از دستور `ssh-copy-id user@ip` استفاده کنید
+
+فایل `known_hosts` هم یک فایل ssh client هستش که شامل تمامی سرورهای وصل شده است
+
+
+### SSH Commands:
 
 `ssh-keygen`: create a key pair for public key authentication
 
@@ -41,8 +49,67 @@ Remember, the specifics can vary depending on your server's configuration and th
 `rsync`: a fast, versatile, remote (and local) file-copying tool
 
 
-
 معمولا جلوی لاگین با پسورد رو میگیریم و فقط اجازه میدیم که کانکشن ssh از طریق کلید انجام بشه
 
-#### SSH Directory and Files:
 
+`ssh user@ip`
+
+`ssh user@ip -p [port]`
+
+`ssh -i [path_to_pem_file] user@ip`
+
+`ssh user@ip 'ls -l'`
+
+`ssh user@ip bash < script.sh`
+
+`ssh user@ip "tar -cvzf - ~/ffmpeg" > output.tgz`
+
+`ssh-copy-id user@ip`
+`ssh-copy-id -i [path_to_public_key] user@ip`
+
+
+نکات:
+- بهینه است که پورت پیش‌فرض ssh که ۲۲ هستش را عوض کنیم
+- به صورت کلی دستور ssh به صورت `ssh user@ip [options] [commands]` هستش که میتوانید یه کامند را در سروری که به آن ssh می‌زنید، اجرا کنید و اگر کامند نزنید، یک محیط bash از آن سرور میگیرد و در اختیار شما می‌گذارد
+
+
+#### SSH keygen:
+می‌توان با استفاده از دستور `ssh-keygen` یک جفت کلید ssh ساخت
+![[Pasted image 20240729102842.png]]
+
+نکات:
+- می‌توان public key را از روی private key ساخت اما برعکس امکان‌پذیر نیست
+- مقدار passphrase پسورد این private key هستش، که اگر به کلی هم دسترسی پیدا کرد، نتونه ازش استفاده کنه
+- می‌توان passphrase و comment را عوض کرد برای یک کلید
+- می‌توان کلید را با الگوریتم‌ و طولهای مختلف ساخت
+- 
+
+#### [[SSH agent]]
+
+
+### Advanced SSH Commands:
+![[Pasted image 20240729104904.png]]
+
+
+
+### SSH jumping
+
+به سروری که ما به اون دسترسی داریم و اون به جاهای دیگه‌ای دسترسی داره میگیم bastion
+![[Pasted image 20240729112015.png]]
+
+مطابق تصویر بالا، فرض کنید که شما به یک سرور دسترسی دارین که نقش سرور bastion رو بازی میکنه، یا اصطلاحا یه دستش تو public network هستش و یه دستش تو private network
+ولی شما به target server که در private network هست، دسترسی ندارین و فقط به bastion server دسترسی دارین
+حالا برای اینکه به target server دسترسی پیدا کنیم، میتونیم از ssh jumping استفاده کنیم
+چیکار میکنه؟ میاد وقتی که شما ssh می‌زنید به سرور bastion، کانکشن شما میپره میره روی target server
+
+میتونیم این کار رو با دستور زیر انجام بدیم:
+```sh
+ssh -J user1@server1 user2@server2
+```
+
+نکته:
+این ssh jumping برای امن کردن سرورهامون خوبه، معمولا ما همه سرورهامون رو داخل یک private network میزاریم و فقط یک سرور bastion میاریم که از طریق اون دسترسی داشته باشیم
+و روی امنیت و فایروال اون سرور bastion خیلی کار میکنیم، تا انتها hardening رو براش اجرا میکنیم
+
+
+### SSH tunneling
