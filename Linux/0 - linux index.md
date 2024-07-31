@@ -9,9 +9,10 @@ concepts:
 [[lvm]]
 [[socket]]
 [[user and group]]
-
+[[file and directory]]
 
 tools:
 [[shell script]]
 [[commands]]
 [[shortcuts]]
+[[vim (vi improved)]]

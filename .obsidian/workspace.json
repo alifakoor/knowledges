@@ -28,33 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a95ba29c1499cc18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/0 - linux index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a8e7b2666e70079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/user and group.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/user and group.md",
+                "file": "Linux/0 - linux index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/user and group.md",
+                "file": "Linux/0 - linux index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/user and group.md"
+                "file": "Linux/0 - linux index.md"
               }
             }
           },
@@ -201,22 +177,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a8e7b2666e70079",
+  "active": "0a7afcdc1153c615",
   "lastOpenFiles": [
-    "Linux/files/sudoers-syntax.png",
-    "Linux/files/Pasted image 20240729160557.png",
-    "Linux/files/Pasted image 20240729160418.png",
+    "Linux/vim (vi improved).md",
     "Linux/0 - linux index.md",
+    "Linux/files/Pasted image 20240731133230.png",
+    "Linux/files/Pasted image 20240731133437.png",
+    "Linux/files/Pasted image 20240731133301.png",
+    "Linux/file and directory.md",
+    "Linux/files/Pasted image 20240731124022.png",
+    "Linux/files/Pasted image 20240731123936.png",
+    "Linux/files/Pasted image 20240731122557.png",
+    "Linux/files/Pasted image 20240731122554.png",
+    "Linux/files/Pasted image 20240731120727.png",
+    "Linux/files/Pasted image 20240731120234.png",
+    "Linux/files/Pasted image 20240731115838.png",
     "Linux/user and group.md",
     "Linux/SSH.md",
-    "Linux/files/Pasted image 20240729154026.png",
-    "Linux/files/Pasted image 20240729125836.png",
-    "Linux/files/Pasted image 20240729122418.png",
-    "Linux/files/Pasted image 20240729121829.png",
-    "Linux/files/Pasted image 20240729121430.png",
-    "Linux/files/Pasted image 20240729121328.png",
-    "Linux/files/Pasted image 20240729112015.png",
-    "Linux/files/Pasted image 20240729104904.png",
     "Linux/SSH agent.md",
     "Linux/socket.md",
     "Linux/memory.md",
@@ -237,8 +214,6 @@
     "_Index_of_knowledges.md",
     "Linux/commands.md",
     "Linux/stdout and stderr.md",
-    "Linux/shortcuts.md",
-    "Linux/shell script.md",
     "Linux/files",
     "self-esteem",
     "DevOps/files",

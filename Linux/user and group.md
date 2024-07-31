@@ -38,4 +38,34 @@ journalctl -f SYSLOG_INDENTIFIER=sudo
 **ساختار یک خط از فایل sudoers:**
 ![[sudoers-syntax.png]]
 
+کانفیگ NOPASSWD برای این هستش که مشخص کنیم کاربر میتونه کدوم کامندها رو بدون پسورد بزنه، البته این خوب نیست و بهتر هستش که پسورد بگیریم از کاربر
+
+بهتر هستش که خود فایل `/etc/sudoers` رو تغییر ندیم و مثلا یه فایل به نام کاربر در مسیر `/etc/sudoers.d/ali` بسازیم و کانفیگ اون یوزر رو تو اون بزاریم که فایل اصلی هم مشکلی براش پیش نیاد
+
+
+### Commands:
+`adduser`
+`userdel`
+`addgroup`
+`delgroup`
+`passwd` change user password
+`usermod` modify a user account
+`chage` change user password expiry information
+`newgrp` log in to a new group
+
+`finger` get details about user
+`id` print real/effective UIDs/GIDs and tells user belong to which groups
+`last` show listing of last logged in users
+`su` start a new process as a different user
+`sudo` execute a command as a different user
+`users` show who is logged on
+`w` show logged-in users and their current tasks
+`who` show who is logged on
+`whoami` show who is logged on
+`write` send a message to another user
+
+**نکته:**
+معمولا برای آدم‌های مختلف در سرور یوزر مربوط به خودشان را میسازیم تا بعدا اگر اتفاقی افتاد اینطوری نشه که نتونیم پیدا کنیم کسی رو که اون کار رو کرده
+
+
 
