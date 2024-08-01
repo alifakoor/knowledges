@@ -10,6 +10,7 @@ concepts:
 [[socket]]
 [[user and group]]
 [[file and directory]]
+[[linux log]]
 
 tools:
 [[shell script]]
