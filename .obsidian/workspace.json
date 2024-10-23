@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "7742431cb971972f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/linux log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "aa71ecd51b829a9f",
@@ -105,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/linux log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/linux log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/linux log.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,11 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7742431cb971972f",
+  "active": "b6f68e980908a063",
   "lastOpenFiles": [
+    "Linux/DNS in Linux.md",
     "Linux/0 - linux index.md",
-    "Linux/systemd.md",
+    "Cloud Engineering/DNS.md",
+    "Linux/SSH.md",
+    "Linux/socket.md",
     "Linux/linux log.md",
+    "Linux/lvm.md",
+    "Linux/systemd.md",
     "Linux/files/Pasted image 20240801080022.png",
     "Linux/commands.md",
     "Linux/shortcuts.md",
@@ -199,13 +186,10 @@
     "Linux/files/Pasted image 20240731120727.png",
     "Linux/files/Pasted image 20240731120234.png",
     "Linux/user and group.md",
-    "Linux/SSH.md",
     "Linux/SSH agent.md",
-    "Linux/socket.md",
     "Linux/memory.md",
     "Linux/initramfs.md",
     "Linux/kernel.md",
-    "Linux/lvm.md",
     "Linux/RAID.md",
     "Linux/boot process.md",
     "Linux/boot loader.md",
@@ -214,7 +198,6 @@
     "Linux/virtualization.md",
     "Linux/Service Unit.md",
     "DevOps/devops -linux.md",
-    "DevOps/0 - devops.md",
     "Linux/files",
     "self-esteem",
     "DevOps/files",

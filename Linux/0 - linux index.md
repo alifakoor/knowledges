@@ -11,6 +11,7 @@ concepts:
 [[user and group]]
 [[file and directory]]
 [[linux log]]
+[[DNS in Linux]]
 
 tools:
 [[shell script]]
