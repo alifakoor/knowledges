@@ -12,6 +12,7 @@ concepts:
 [[file and directory]]
 [[linux log]]
 [[DNS in Linux]]
+[[kernel config]]
 
 tools:
 [[shell script]]
