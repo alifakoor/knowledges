@@ -18,8 +18,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0d68d60c312b9853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hashicorp vault/Implement with Mongodb and Nestjs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implement with Mongodb and Nestjs"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,11 +194,29 @@
   },
   "active": "04a5c27aec0daedb",
   "lastOpenFiles": [
+    "Hashicorp vault/vault_agent_sidecar_pattern.svg",
+    "Hashicorp vault/HashiCorp Vault concepts and architecture.md",
+    "Hashicorp vault/Implement with Mongodb and Nestjs.md",
+    "Hashicorp vault/vault_nestjs_mongo_placement.svg",
+    "Hashicorp vault/vault_request_flow.svg",
+    "Clippings",
+    "Hashicorp vault/Step 2 The core mental model.md",
+    "Cloud Engineering/DNS.md",
+    "Hashicorp vault",
+    "Cloud Engineering/on-premise.md",
+    "DevOps/Disk.md",
+    "Docker/docker commands.md",
+    "git/create branch from commit.md",
+    "ML/vector embeddings.md",
+    "Software Architecture/Styles vs Patterns.md",
+    "Software Engineering at Google Book/Thesis/1. What Is Software Engineering?.md",
+    "SRE at Google Book/Preface.md",
+    "SRE at Google Book/1. Introduction.md",
+    "SRE at Google Book/SRE at Google Book.md",
     "Untitled.base",
     "Linux/lvm.md",
     "Untitled.canvas",
     "2025-11-15.md",
-    "Software Engineering at Google Book/Thesis/1. What Is Software Engineering?.md",
     "Software Engineering at Google Book/preface.md",
     "Software Engineering at Google Book/Thesis",
     "Software Engineering at Google Book/Software Engineering at Google Book.md",
@@ -193,23 +226,10 @@
     "Learning Go Book/0. Learning Go Book.md",
     "Learning Go Book",
     "Linux/file and directory.md",
-    "SRE at Google Book/SRE at Google Book.md",
     "soft skill/چگونه ستاره سازمان خود باشید؟.md",
     "soft skill/راز یک جلسه خوب؟ آمادگی.md",
     "soft skill/Art of Asking Questions.md",
-    "SRE at Google Book/Preface.md",
-    "SRE at Google Book/1. Introduction.md",
     "SRE at Google Book",
-    "Cloud Engineering/Fundational Cloud Practitioner.md",
-    "Cloud Engineering/اصطلاحات cloud.md",
-    "Cloud Engineering/What is Cloud Computing.md",
-    "Cloud Engineering/CDN.md",
-    "Cloud Engineering/public cloud.md",
-    "Cloud Engineering/ترافیک‌های شرقی غربی.md",
-    "Cloud Engineering/ترافیک شمالی جنوبی.md",
-    "Linux/RAID.md",
-    "system design/availability.md",
-    "system design/scalability.md",
     "system design/files",
     "system design/files/scalability.png",
     "system design",
@@ -220,11 +240,6 @@
     "Linux/files/Pasted image 20240731124022.png",
     "Linux/files/Pasted image 20240731123936.png",
     "Linux/files/Pasted image 20240731122557.png",
-    "Linux/files/Pasted image 20240731122554.png",
-    "Linux/files/Pasted image 20240731120727.png",
-    "Linux/files",
-    "self-esteem",
-    "DevOps/files",
-    "Cloud Engineering/files"
+    "Linux/files"
   ]
 }
